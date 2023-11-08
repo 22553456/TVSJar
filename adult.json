@@ -409,6 +409,150 @@
       }
     },
     {
+      "key": "msnii.com",
+      "name": "成人27",
+      "type": 1,
+      "api": "https://www.msnii.com/api/xml.php",
+      "searchable": 1,
+      "recordable": 0,
+      "style": {
+        "type": "rect",
+        "ratio": 1.33
+      }
+    },
+    {
+      "key": "apittzy.com",
+      "name": "成人28",
+      "type": 1,
+      "api": "https://apittzy.com/api.php/provide/vod/at/xml/",
+      "searchable": 1,
+      "recordable": 0,
+      "style": {
+        "type": "rect",
+        "ratio": 1.33
+      }
+    },
+    {
+      "key": "apilj.com",
+      "name": "成人29",
+      "type": 1,
+      "api": "https://apilj.com/api.php/provide/vod/at/xml/",
+      "searchable": 1,
+      "recordable": 0,
+      "style": {
+        "type": "rect",
+        "ratio": 1.33
+      }
+    },
+    {
+      "key": "dadiapi.com",
+      "name": "成人30",
+      "type": 1,
+      "api": "https://dadiapi.com/api.php",
+      "searchable": 1,
+      "recordable": 0,
+      "style": {
+        "type": "rect",
+        "ratio": 1.33
+      }
+    },
+    {
+      "key": "apilyzy.com",
+      "name": "成人31",
+      "type": 1,
+      "api": "https://api.apilyzy.com/api.php/provide/vod/at/xml/",
+      "searchable": 1,
+      "recordable": 0,
+      "style": {
+        "type": "rect",
+        "ratio": 1.33
+      }
+    },
+    {
+      "key": "putaozyw.net",
+      "name": "成人32",
+      "type": 1,
+      "api": "https://caiji.putaozyw.net/inc/api.php",
+      "searchable": 1,
+      "recordable": 0,
+      "style": {
+        "type": "rect",
+        "ratio": 1.33
+      }
+    },
+    {
+      "key": "caoliuzyw.com",
+      "name": "成人33",
+      "type": 1,
+      "api": "https://www.caoliuzyw.com/api.php/provide/vod/at/xml/",
+      "searchable": 1,
+      "recordable": 0,
+      "style": {
+        "type": "rect",
+        "ratio": 1.33
+      }
+    },
+    {
+      "key": "jpzy.me",
+      "name": "成人34",
+      "type": 1,
+      "api": "https://jpzy.me/api.php/provide/vod/at/xml/",
+      "searchable": 1,
+      "recordable": 0,
+      "style": {
+        "type": "rect",
+        "ratio": 1.33
+      }
+    },
+    {
+      "key": "naixxzy.com",
+      "name": "成人35",
+      "type": 1,
+      "api": "https://naixxzy.com/api.php/provide/vod/at/xml/",
+      "searchable": 1,
+      "recordable": 0,
+      "style": {
+        "type": "rect",
+        "ratio": 1.33
+      }
+    },
+    {
+      "key": "155api.com",
+      "name": "成人36",
+      "type": 1,
+      "api": "https://155api.com/api.php/provide/vod/at/xml/",
+      "searchable": 1,
+      "recordable": 0,
+      "style": {
+        "type": "rect",
+        "ratio": 1.33
+      }
+    },
+    {
+      "key": "seyavod.com",
+      "name": "成人37",
+      "type": 1,
+      "api": "https://api.seyavod.com/api.php/provide/vod/at/xml/",
+      "searchable": 1,
+      "recordable": 0,
+      "style": {
+        "type": "rect",
+        "ratio": 1.33
+      }
+    },
+    {
+      "key": "bominzy.com",
+      "name": "成人38",
+      "type": 1,
+      "api": "https://www.bominzy.com/api.php/provide/vod/at/xml/",
+      "searchable": 1,
+      "recordable": 0,
+      "style": {
+        "type": "rect",
+        "ratio": 1.33
+      }
+    },
+    {
       "key": "push_agent",
       "name": "推送",
       "type": 3,
