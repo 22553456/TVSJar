@@ -3,14 +3,6 @@
   "wallpaper": "https://gao.chuqiuyu.tk",
   "sites": [
     {
-      "key": "泥巴",
-      "name": "泥巴",
-      "type": 3,
-      "api": "csp_NiNi",
-      "searchable": 1,
-      "ext": "1"
-    },
-    {
       "key": "量子",
       "name": "量子",
       "type": 0,
