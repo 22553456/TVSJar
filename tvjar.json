@@ -254,10 +254,21 @@
         "haiwaikan"
       ],
       "regex": [
-        "8.1748",
         "10.0099",
         "10.3333",
-        "16.0599"
+        "16.0599",
+        "8.1748",
+        "10.85"
+      ]
+    },
+    {
+      "name": "索尼",
+      "hosts": [
+        "suonizy"
+      ],
+      "regex": [
+        "15.1666",
+        "15.2666"
       ]
     },
     {
@@ -286,8 +297,7 @@
         "v.cdnlz"
       ],
       "regex": [
-        "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:6.433333,[\\s\\S]*?#EXT-X-DISCONTINUITY",
-        "#EXTINF.*?\\s+.*?1o.*?\\.ts\\s+"
+        "18.5333"
       ]
     },
     {
@@ -297,8 +307,7 @@
         "hd.ffzy"
       ],
       "regex": [
-        "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:6.666667,[\\s\\S]*?#EXT-X-DISCONTINUITY",
-        "#EXTINF.*?\\s+.*?1o.*?\\.ts\\s+"
+        "25.0666"
       ]
     },
     {
