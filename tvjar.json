@@ -3,6 +3,14 @@
   "wallpaper": "http://饭太硬.top/深色壁纸/api.php",
   "sites": [
     {
+      "key": "卧龙",
+      "name": "🐉卧龙",
+      "type": 1,
+      "api": "https://collect.wolongzy.cc/api.php/provide/vod",
+      "searchable": 1,
+      "changeable": 1
+    },
+    {
       "key": "玩偶",
       "name": "🧸玩偶",
       "type": 3,
