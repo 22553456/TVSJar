@@ -11,6 +11,14 @@
       "changeable": 1
     },
     {
+      "key": "大漠",
+      "name": "🔥大漠",
+      "type": 1,
+      "api": "https://damozy.com/api.php/provide/vod",
+      "searchable": 1,
+      "changeable": 1
+    },
+    {
       "key": "玩偶",
       "name": "🧸玩偶",
       "type": 3,
