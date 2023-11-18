@@ -505,6 +505,18 @@
       }
     },
     {
+      "key": "bominzy.com",
+      "name": "成人35",
+      "type": 0,
+      "api": "https://aosikazy.com/api.php/provide/vod/at/xml/",
+      "searchable": 1,
+      "recordable": 0,
+      "style": {
+        "type": "rect",
+        "ratio": 1.33
+      }
+    },
+    {
       "key": "push_agent",
       "name": "推送",
       "type": 3,
