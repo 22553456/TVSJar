@@ -505,10 +505,70 @@
       }
     },
     {
-      "key": "bominzy.com",
+      "key": "aosikazy.com",
       "name": "成人35",
       "type": 0,
       "api": "https://aosikazy.com/api.php/provide/vod/at/xml/",
+      "searchable": 1,
+      "recordable": 0,
+      "style": {
+        "type": "rect",
+        "ratio": 1.33
+      }
+    },
+    {
+      "key": "slapibf.com",
+      "name": "成人36",
+      "type": 0,
+      "api": "https://slapibf.com/api.php/provide/vod/at/xml/",
+      "searchable": 1,
+      "recordable": 0,
+      "style": {
+        "type": "rect",
+        "ratio": 1.33
+      }
+    },
+    {
+      "key": "hongxiuzy.com",
+      "name": "成人37",
+      "type": 0,
+      "api": "https://hongxiuzy.com/api.php/provide/vod/at/xml/",
+      "searchable": 1,
+      "recordable": 0,
+      "style": {
+        "type": "rect",
+        "ratio": 1.33
+      }
+    },
+    {
+      "key": "bmzyapi9.com",
+      "name": "成人38",
+      "type": 0,
+      "api": "https://www.bmzyapi9.com/api.php/provide/vod/at/xml/",
+      "searchable": 1,
+      "recordable": 0,
+      "style": {
+        "type": "rect",
+        "ratio": 1.33
+      }
+    },
+    {
+      "key": "bukazyw.com",
+      "name": "成人39",
+      "type": 0,
+      "api": "https://www.bukazyw.com/api.php/provide/vod/at/xml/",
+      "searchable": 1,
+      "recordable": 0,
+      "style": {
+        "type": "rect",
+        "ratio": 1.33
+      }
+    },
+    {
+      "key": "lyhapi.com",
+      "name": "成人40",
+      "type": 0,
+      "api": "https://api.lyhapi.com/api.php/provide/vod/at/xml/",
       "searchable": 1,
       "recordable": 0,
       "style": {
