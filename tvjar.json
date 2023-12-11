@@ -4,59 +4,11 @@
   "sites": [
     {
       "key": "短剧",
-      "name": "短剧",
+      "name": "🔥短剧",
       "type": 3,
       "api": "csp_Duanju",
       "searchable": 1,
       "changeable": 0
-    },
-    {
-      "key": "卧龙",
-      "name": "🐉卧龙",
-      "type": 1,
-      "api": "https://collect.wolongzy.cc/api.php/provide/vod",
-      "searchable": 1,
-      "changeable": 1
-    },
-    {
-      "key": "大漠",
-      "name": "🔥大漠",
-      "type": 1,
-      "api": "https://damozy.com/api.php/provide/vod",
-      "searchable": 1,
-      "changeable": 1
-    },
-    {
-      "key": "极光",
-      "name": "🔥极光",
-      "type": 1,
-      "api": "https://jiguang.la/api.php/provide/vod",
-      "searchable": 1,
-      "changeable": 1
-    },
-    {
-      "key": "49资源",
-      "name": "😈49资源",
-      "type": 1,
-      "api": "https://49zyw.com/api.php/provide/vod",
-      "searchable": 1,
-      "changeable": 1
-    },
-    {
-      "key": "魔都",
-      "name": "🤡魔都",
-      "type": 1,
-      "api": "https://www.moduzy.com/api.php/provide/vod",
-      "searchable": 1,
-      "changeable": 1
-    },
-    {
-      "key": "加菲猫",
-      "name": "👻加菲猫",
-      "type": 1,
-      "api": "https://xzcjz.com/api.php/provide/vod",
-      "searchable": 1,
-      "changeable": 1
     },
     {
       "key": "玩偶",
@@ -88,18 +40,42 @@
       "changeable": 0
     },
     {
-      "key": "暴风",
-      "name": "😋暴风",
+      "key": "49资源",
+      "name": "😈49资源",
       "type": 1,
-      "api": "https://bfzyapi.com/api.php/provide/vod",
+      "api": "https://49zyw.com/api.php/provide/vod",
       "searchable": 1,
       "changeable": 1
     },
     {
-      "key": "索尼",
-      "name": "🤪索尼 ",
+      "key": "卧龙",
+      "name": "🐉卧龙",
       "type": 1,
-      "api": "https://suoniapi.com/api.php/provide/vod",
+      "api": "https://collect.wolongzy.cc/api.php/provide/vod",
+      "searchable": 1,
+      "changeable": 1
+    },
+    {
+      "key": "极光",
+      "name": "🔥极光",
+      "type": 1,
+      "api": "https://jiguang.la/api.php/provide/vod",
+      "searchable": 1,
+      "changeable": 1
+    },
+    {
+      "key": "加菲猫",
+      "name": "👻加菲猫",
+      "type": 1,
+      "api": "https://xzcjz.com/api.php/provide/vod",
+      "searchable": 1,
+      "changeable": 1
+    },
+    {
+      "key": "暴风",
+      "name": "😋暴风",
+      "type": 1,
+      "api": "https://bfzyapi.com/api.php/provide/vod",
       "searchable": 1,
       "changeable": 1
     },
