@@ -3,8 +3,8 @@
   "wallpaper": "http://饭太硬.top/深色壁纸/api.php",
   "sites": [
     {
-      "key": "短劇",
-      "name": "短劇",
+      "key": "短剧",
+      "name": "短剧",
       "type": 3,
       "api": "csp_Duanju",
       "searchable": 1,
