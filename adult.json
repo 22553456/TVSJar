@@ -413,6 +413,7 @@
       "name": "成人27",
       "type": 1,
       "api": "https://api.apilyzy.com/api.php/provide/vod/",
+      "playUrl": "json:https://player.77lehuo.com/aliplayer/?url=",
       "searchable": 1,
       "recordable": 0,
       "style": {
