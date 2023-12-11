@@ -603,6 +603,18 @@
       }
     },
     {
+      "key": "mygzycj.com",
+      "name": "成人43",
+      "type": 0,
+      "api": "http://mygzycj.com/sapi.php?ac=videolist",
+      "searchable": 1,
+      "recordable": 0,
+      "style": {
+        "type": "rect",
+        "ratio": 1.33
+      }
+    },
+    {
       "key": "push_agent",
       "name": "推送",
       "type": 3,
