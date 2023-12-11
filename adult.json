@@ -578,11 +578,23 @@
       }
     },
     {
-      "key": "lyhapi.com",
+      "key": "lbapi9.com",
       "name": "成人41",
       "type": 0,
       "api": "https://lbapi9.com/api.php/provide/vod/at/xml/",
       "playUrl": "json:https://player.77lehuo.com/aliplayer/?url=",
+      "searchable": 1,
+      "recordable": 0,
+      "style": {
+        "type": "rect",
+        "ratio": 1.33
+      }
+    },
+    {
+      "key": "zmcj88.com",
+      "name": "成人42",
+      "type": 0,
+      "api": "http://zmcj88.com/sapi?ac=videolist",
       "searchable": 1,
       "recordable": 0,
       "style": {
