@@ -615,10 +615,10 @@
       }
     },
     {
-      "key": "dadiapi.com",
+      "key": "shayuapi.com",
       "name": "成人44",
       "type": 0,
-      "api": "https://dadiapi.com/apple_m3u8.php",
+      "api": "https://shayuapi.com/api.php/provide/vod/at/xml/",
       "searchable": 1,
       "recordable": 0,
       "style": {
