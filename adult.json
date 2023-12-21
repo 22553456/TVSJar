@@ -688,7 +688,7 @@
     },
     {
       "key": "moduapi.cc",
-      "name": "动漫60",
+      "name": "动漫50",
       "type": 0,
       "api": "https://caiji.moduapi.cc/api.php/provide/vod/at/xml/",
       "searchable": 1,
