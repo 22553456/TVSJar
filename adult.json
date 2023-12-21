@@ -663,6 +663,18 @@
       }
     },
     {
+      "key": "yrzyapi.com",
+      "name": "成人48",
+      "type": 0,
+      "api": "https://api.yrzyapi.com/api.php/provide/vod/at/xml/",
+      "searchable": 1,
+      "recordable": 0,
+      "style": {
+        "type": "rect",
+        "ratio": 1.33
+      }
+    },
+    {
       "key": "moduapi.cc",
       "name": "动漫60",
       "type": 0,
