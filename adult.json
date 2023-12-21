@@ -627,6 +627,18 @@
       }
     },
     {
+      "key": "avre06.com",
+      "name": "成人45",
+      "type": 0,
+      "api": "https://www.avre06.com/api.php/Prodao/vod/at/xml/",
+      "searchable": 1,
+      "recordable": 0,
+      "style": {
+        "type": "rect",
+        "ratio": 1.33
+      }
+    },
+    {
       "key": "push_agent",
       "name": "推送",
       "type": 3,
