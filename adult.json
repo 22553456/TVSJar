@@ -639,6 +639,18 @@
       }
     },
     {
+      "key": "moduapi.cc",
+      "name": "动漫46",
+      "type": 0,
+      "api": "https://caiji.moduapi.cc/api.php/provide/vod/at/xml/",
+      "searchable": 1,
+      "recordable": 0,
+      "style": {
+        "type": "rect",
+        "ratio": 1.33
+      }
+    },
+    {
       "key": "push_agent",
       "name": "推送",
       "type": 3,
