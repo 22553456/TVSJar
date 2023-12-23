@@ -687,8 +687,20 @@
       }
     },
     {
+      "key": "siwazyw.tv",
+      "name": "成人50",
+      "type": 0,
+      "api": "https://www.siwazyw.tv/api.php/provide/vod/at/xml/",
+      "searchable": 1,
+      "recordable": 0,
+      "style": {
+        "type": "rect",
+        "ratio": 1.33
+      }
+    },
+    {
       "key": "moduapi.cc",
-      "name": "动漫50",
+      "name": "动漫55",
       "type": 0,
       "api": "https://caiji.moduapi.cc/api.php/provide/vod/at/xml/",
       "searchable": 1,
