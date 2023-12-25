@@ -30,70 +30,6 @@
       "searchable": 1,
       "changeable": 0
     },
-   {
-      "key": "车妹",
-      "name": "👉春盈车妹",
-      "type": 3,
-      "api": "csp_AppYsV2",
-      "searchable": 1,
-      "changeable": 0,
-      "ext": "https://www.gsjtlxy.top/xgapp.php/v3/"
-    },
-    {
-      "key": "鑫鑫影院",
-      "name": "👉鑫鑫影院",
-      "type": 3,
-      "api": "csp_AppYsV2",
-      "searchable": 1,
-      "changeable": 0,
-      "ext": "http://yingszj.xn--654a.cc/api.php/app/"
-    },
-    {
-      "key": "多米蓝光",
-      "name": "🌽️多米影视",
-      "type": 3,
-      "api": "csp_AppYsV2",
-      "searchable": 1,
-      "changeable": 0,
-      "ext": "http://v.dmdh.top/api.php/app/"
-    },
-    {
-      "key": "爱迪V2",
-      "name": "💡️爱迪影视",
-      "type": 3,
-      "api": "csp_AppYsV2",
-      "searchable": 1,
-      "changeable": 0,
-      "ext": "https://aidiapp.xyz/xgapp.php/v2/"
-    },
-    {
-      "key": "小城",
-      "name": "🏰小城影视",
-      "type": 3,
-      "api": "csp_AppYsV2",
-      "searchable": 1,
-      "changeable": 0,
-      "ext": "https://jx.ccabc.cc/fanfan/api.php/app/"
-    },
-    {
-      "key": "如意4K",
-      "name": "🐵️如意影视",
-      "type": 3,
-      "api": "csp_AppYsV2",
-      "searchable": 1,
-      "changeable": 0,
-      "ext": "http://cms.maoyingshi.cc/api.php/app/",
-      "playUrl":"json:https://jx.4kdv.com/?url="
-    },
-    {
-      "key": "六九",
-      "name": "🗽六九美剧",
-      "type": 3,
-      "api": "csp_AppYsV2",
-      "searchable": 1,
-      "changeable": 0,
-      "ext": "https://www.69mj.com/xgapp.php/v2/"
-    },
     {
       "key": "玩偶",
       "name": "🧸玩偶",
@@ -300,102 +236,6 @@
       "changeable": 0
     }
   ],
-  "parses": [
-    {
-      "name":"超级嗅探",
-      "type":3,
-      "url":"Web"
-    },
-    {
-      "name":"Json并发",
-      "type":2,
-      "url":"Parallel"
-    },
-    {
-      "name":"Json轮询",
-      "type":2,
-      "url":"Sequence"
-    },
-    {
-      "name": "️春盈天下",
-      "type": 0,
-      "url": "http://www.ainm.cc/a/play/p/video.html?id="
-    },
-    {
-      "name": "️春盈解析",
-      "type": 0,
-      "url": "https://www.pangujiexi.com/pangu/?url="
-    },
-    {
-      "name":"春盈嗅探",
-      "type":0,
-      "url":"https://jx.xmflv.com/?url="
-    },
-    {
-      "name":"杰森嗅探",
-      "type":0,
-      "url":"https://jx.jsonplayer.com/player/?url="
-    }, 
-    {
-      "name":"春盈嗅探",
-      "type":0,
-      "url":"https://jx.jsonplayer.com/player/?=&url=",
-      "ext": {
-        "flag": [
-          "qq","腾讯","qiyi","iqiyi","爱奇艺","奇艺","youku","yk","优酷","mgtv","imgo","芒果"
-        ]
-      }
-    },
-    {
-      "name":"7777嗅探",
-      "type":0,
-      "url":"https://jx.777jiexi.com/player/?url="
-    },
-    {
-      "name": "vip嗅探",
-      "type": 0,
-      "url": "https://vip.lianfaka.com/vip/?url=",
-      "ext": {
-        "flag": [
-          "qq", "腾讯", "qiyi", "爱奇艺", "奇艺", "youku", "优酷", "mgtv", "芒果", "imgo", "letv", "乐视", "pptv", "PPTV", "sohu", "bilibili", "哔哩哔哩", "哔哩"
-        ], 
-        "header": {
-          "User-Agent": "okhttp/4.1.0"
-        }
-      }
-    }, 
-    {
-      "name": "8090嗅探",
-      "type": 0,
-      "url": "https://www.8090g.cn/jiexi/?url="
-    }, 
-    {
-      "name":"m3u8嗅探",
-      "type":0,
-      "url":"https://jx.m3u8.tv/jiexi/?url=",
-      "ext": {
-        "flag": [
-          "qq","腾讯","qiyi","iqiyi","爱奇艺","奇艺","youku","yk","优酷","mgtv","imgo","芒果"
-        ]
-      }
-    }, 
-    {
-      "name":"闲鱼嗅探",
-      "type":0,
-      "url":"https://jx.xyflv.com/?url=",
-      "ext": {
-        "flag": [
-          "qq","腾讯","qiyi","iqiyi","爱奇艺","奇艺","youku","yk","优酷","mgtv","imgo","芒果"
-        ]
-      }
-    },   
-    {
-      "name":"夜幕嗅探",
-      "type":0,
-      "url":"https://www.yemu.xyz/?url="
-    }
-  ],
-  "flags":["youku","qq","iqiyi","qiyi","letv","sohu","tudou","pptv","mgtv","wasu"],
   "doh": [
     {
       "name": "Google",
@@ -470,6 +310,7 @@
         "10.3333",
         "16.0599",
         "8.1748",
+        "12.33",
         "10.85"
       ]
     },
@@ -519,7 +360,8 @@
         "hd.ffzy"
       ],
       "regex": [
-        "25.0666"
+        "25.0666",
+        "25.08"
       ]
     },
     {
@@ -549,5 +391,8 @@
         "video/tos/cn"
       ]
     }
+  ],
+  "ads": [
+    "mozai.4gtv.tv"
   ]
 }
