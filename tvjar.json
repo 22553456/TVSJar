@@ -31,6 +31,15 @@
       "changeable": 0
     },
     {
+      "key": "多米蓝光",
+      "name": "🌽️多米影视",
+      "type": 3,
+      "api": "csp_AppYsV2",
+      "searchable": 1,
+      "changeable": 0,
+      "ext": "http://v.dmdh.top/api.php/app/"
+    },
+    {
       "key": "玩偶",
       "name": "🧸玩偶",
       "type": 3,
