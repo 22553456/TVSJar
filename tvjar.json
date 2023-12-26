@@ -11,18 +11,6 @@
       "changeable": 1
     },
     {
-      "key": "配置中心",
-      "name": "配置中心",
-      "type": 3,
-      "api": "csp_Config",
-      "searchable": 0,
-      "changeable": 0,
-      "style": {
-        "type": "rect",
-        "ratio": 1.43
-      }
-    },
-    {
       "key": "玩偶弹幕版",
       "name": "玩偶哥哥弹幕|4K",
       "type": 3,
