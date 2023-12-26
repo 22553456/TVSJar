@@ -23,12 +23,40 @@
   ],
   "sites": [
     {
+      "key": "賤賤",
+      "name": "👉贱贱",
+      "type": 3,
+      "api": "csp_Jianpian",
+      "searchable": 1,
+      "changeable": 1,
+      "ext": "https://fm.t4tv.hz.cz/json/jianpian.json"
+    },
+    {
+      "key": "996影院",
+      "name": "👉996影院",
+      "type": 3,
+      "api": "csp_Cs1369",
+      "searchable": 1,
+      "changeable": 1
+    },
+    {
       "key": "短剧",
       "name": "🔥短剧",
       "type": 3,
       "api": "csp_Duanju",
       "searchable": 1,
       "changeable": 0
+    },
+    {
+      "key": "看球",
+      "name": "👉看球",
+      "type": 3,
+      "api": "csp_Kanqiu",
+      "searchable": 1,
+      "changeable": 0,
+      "style": {
+        "type": "list"
+      }
     },
     {
       "key": "玩偶",
@@ -389,6 +417,24 @@
       ],
       "regex": [
         "video/tos/cn"
+      ]
+    },
+    {
+      "name": "夜市",
+      "hosts": [
+        "yeslivetv.com"
+      ],
+      "script": [
+        "document.getElementsByClassName('vjs-big-play-button')[0].click()"
+      ]
+    },
+    {
+      "name": "毛驢",
+      "hosts": [
+        "www.maolvys.com"
+      ],
+      "script": [
+        "document.getElementsByClassName('swal-button swal-button--confirm')[0].click()"
       ]
     }
   ],
