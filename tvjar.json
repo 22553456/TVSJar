@@ -1108,14 +1108,6 @@
       "quickSearch": 1
     },
     {
-      "key": "*jkun资源",
-      "name": "*jkun资源",
-      "type": 1,
-      "api": "https://jkunzyapi.com/api.php/provide/vod",
-      "searchable": 1,
-      "quickSearch": 1
-    },
-    {
       "key": "影图",
       "name": "影图(聚)",
       "type": 1,
