@@ -1,10 +1,10 @@
 {
-    "spider":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/Yoursmile.jar;md5;CE6C4DB34B73FB63711906DFA9152021",
+    "spider":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/Yoursmile.jar;md5;564F69FA12A8D491569E9631629E0011",
     "wallpaper":"https://tuapi.eees.cc/api.php?category=fengjing&type=302",
     "sites":[
         {
             "key":"csp_DouDou",
-            "name":"🔍豆瓣┃APP",
+            "name":"🔍豆瓣",
             "type":3,
             "api":"csp_DouDou",
             "searchable":0,
@@ -13,17 +13,17 @@
         },
         {
             "key":"csp_Czsapp",
-            "name":"🏭厂长┃APP",
+            "name":"🏭厂长",
             "type":3,
             "api":"csp_Czsapp",
             "searchable":1,
             "quickSearch":1,
             "filterable":0,
-            "ext":"https://www.czzy33.com/"
+            "ext":"https://www.czzy66.com"
         },
         {
             "key":"csp_Kunyu77",
-            "name":"👒酷云七七┃APP",
+            "name":"👒酷云七七",
             "type":3,
             "api":"csp_Kunyu77",
             "searchable":1,
@@ -32,7 +32,7 @@
         },
         {
             "key":"csp_YQKan",
-            "name":"🌎一起看┃APP",
+            "name":"🌎一起看",
             "type":3,
             "api":"csp_YQKan",
             "searchable":1,
@@ -41,29 +41,39 @@
         },
         {
             "key":"csp_NanGua",
-            "name":"🎃南瓜┃APP",
+            "name":"🎃南瓜",
             "type":3,
             "api":"csp_NanGua",
-            "playerType":2,
             "searchable":1,
             "quickSearch":1,
             "filterable":1,
             "changeable":1
         },
         {
-            "key":"橘子",
-            "name":"🍊橘子┃APP",
+            "key":"小柚",
+            "name":"🍊小柚",
+            "type":3,
+            "api":"csp_AppSK",
+            "searchable":1,
+            "quickSearch":1,
+            "filterable":1,
+            "changeable":1,
+            "ext":"FbjPcVZY48PN/RIZ5QqOrsp7JoZYCZdLEy9R9ri6ykNdUNSIsT3IgxCP9qyzByO7ZG6Z030vgWoyXGNlCJx9KFpYXtyZ3B/cLTtO0SAclaw3AOm0fS9oLx2taGF6hg=="
+        },
+        {
+            "key":"萌米",
+            "name":"👀萌米",
             "type":3,
             "api":"csp_AppMao",
             "searchable":1,
             "quickSearch":1,
             "filterable":1,
             "changeable":1,
-            "ext":"FbjDcUxPqpfNr0QF4QvE6sExbcJUCYdIVisPtbeywENfScyc6nTW0F+D7rX5HCm9c3SL03FsmGsmXS04XZMlbxEVW4/ZgwONbnobxj8KxeRpXqDxCWghfAf9JSR025yi92eOKqE9HokX9QQnl1WsU21CR4+dlEMDEsADd1xFGiiGtsh0vqJFAf41Z7sYL00hBBNM3xJsYyXCuX4BrzNYpZRwmcnwnXIHe2MtwbsJf0IAs6yM+y/ub+niyxOc2YuPbc/VUS4DGPqzelIi6plLWFvZ8+j2xcvAgopZxZFhBkIYCIIC5Uec/JW8RgW9WV1SKntGcmcd5yjIpagsmpXymH3a+FKzHKMB3LvXmR6onijWkP0VpivFgVVfjWrik4Yr0ZjZxKFA0uPQvy9l9EjPMNrQIj0sZjnpv7JmoMO+HfQ+lqKhJrQFq4MooyyGv6yhNv12IOHay3A="
+            "ext":"FbjKZ1gO+9u81wMIxzHg+7x1Oep4CIFuZAlCy8a4qCgjGLacnxDo6wiBr66jP3X8J2mRx31u1XgkTTVrENVjfhQKUN2Yi12XNWQSlmVZxLtiSaSiZG0xf1Hw"
         },
         {
             "key":"嘿嘿",
-            "name":"💡嘿嘿┃APP",
+            "name":"💡嘿嘿",
             "type":3,
             "api":"csp_AppMao",
             "searchable":1,
@@ -81,11 +91,11 @@
             "quickSearch":1,
             "filterable":1,
             "changeable":1,
-            "ext":"FbjCcU1KqpC5pkRX4Q3D+NciPclIFs4EHzRV89m3pENRS6PivxPrlXvH/4efUSWwUCWwwk8srkIDSXN9RIJkSCZPJqnRikLRakBH0XBB6uNlX6XgMjhUKBTbBXopnsWdvXX6OowIBLQ78wghs3yRbgJxOYvrglBVIeI4cTcDGxixtMJ+yL0zE9g1d+N2RH4JERZh3CoYXSO1hH420ARbjt08lerroREmfGoT8JEGfTFW3MrK3hWueIyRsyOllsiwNM6dXSwTArm5em8Lv8ppXgro"
+            "ext":"FbjCcU1KqpC5pkRX4Q3D+NciPclIFs4EHzRV89m3pENRS6PivxPrlXvH/4efUSWwUCWwwk8srkIDSXN9RIJkSCZPJqnRikLRakBH0XBB6uNlX6XgMjhUKBTbBXopnsWdvXX6OowIBLQ78wghs3yRbgJxOYvrglBVIeI4cTcDGxixtMJ+yL0zE9g1d+N2RH4JERZh3CoYXSO1hH420ARbjt08lerroREmfGoT8JEGfTFW3MrK3hWueIyRsyOllsj/P87VXSxEVLnwNm4fos8lCFL74+azvs61n89svqg="
         },
         {
             "key":"电影",
-            "name":"🗽电影┃APP",
+            "name":"🗽电影",
             "type":3,
             "api":"csp_AppSK",
             "searchable":1,
@@ -95,18 +105,8 @@
             "ext":"FbjPcVZY48PN/RIZ5QqOrspkJ4ZHF98MCHVX87i5y01XUNSIsT3IgxCP9qyzByO7aWmK03MmmHYwQmNlCJx9KFpYWNSc3hbeLTlD3SAclaw3AOnn"
         },
         {
-            "key":"皮皮虾",
-            "name":"🦀皮皮虾┃APP",
-            "type":3,
-            "api":"csp_AppSK",
-            "searchable":1,
-            "quickSearch":1,
-            "changeable":1,
-            "ext":"FbjPcVZY48PN/RIZ5UWFrphwMYZWG4dUVjwO4+rih1hIUJXNp3iJg1HE6Ku0DDW8bH6VwnMqkHV3FGMiXNUxKFVOX9ue0RveKTtG0CYRkK0lRw=="
-        },
-        {
             "key":"繁星",
-            "name":"💥繁星┃APP",
+            "name":"💥繁星",
             "type":3,
             "api":"csp_AppMao",
             "playerType":2,
@@ -118,7 +118,7 @@
         },
         {
             "key":"csp_Cs1369",
-            "name":"🎀九六┃APP",
+            "name":"🎀九六",
             "type":3,
             "api":"csp_Cs1369",
             "playerType":2,
@@ -129,7 +129,7 @@
         },
         {
             "key":"csp_DiDuan",
-            "name":"📺低端┃APP",
+            "name":"📺低端",
             "type":3,
             "api":"csp_Ddrk",
             "searchable":1,
@@ -138,7 +138,7 @@
         },
         {
             "key":"csp_Zxzj",
-            "name":"🏠在线之家┃APP",
+            "name":"🏠在线之家",
             "type":3,
             "api":"csp_Zxzj",
             "searchable":1,
@@ -148,7 +148,7 @@
         },
         {
             "key":"csp_Auete",
-            "name":"🐼奥特┃APP",
+            "name":"🐼奥特",
             "type":3,
             "api":"csp_Auete",
             "searchable":1,
@@ -158,7 +158,7 @@
         },
         {
             "key":"csp_MYYS",
-            "name":"👻忍者┃APP",
+            "name":"👻忍者",
             "type":3,
             "api":"csp_MYYS",
             "searchable":1,
@@ -168,7 +168,7 @@
         },
         {
             "key":"csp_MLYS",
-            "name":"🐴毛驴┃APP",
+            "name":"🐴毛驴",
             "type":3,
             "api":"csp_MLYS",
             "searchable":1,
@@ -179,7 +179,7 @@
         },
         {
             "key":"爱迪",
-            "name":"🍟爱迪┃APP",
+            "name":"🍟爱迪",
             "type":3,
             "api":"csp_AppYsV2",
             "searchable":1,
@@ -188,18 +188,8 @@
             "ext":"https://api123.adys.app/xgapp.php/v3/"
         },
         {
-            "key":"迷你库",
-            "name":"Ⓜ️迷你库┃APP",
-            "type":3,
-            "api":"csp_AppYsV2",
-            "searchable":1,
-            "quickSearch":1,
-            "filterable":1,
-            "ext":"http://www.miniku.cc/xgapp.php/v1/"
-        },
-        {
             "key":"csp_Xinsj",
-            "name":"✨新视觉┃APP",
+            "name":"✨新视觉",
             "type":3,
             "api":"csp_Xinsj",
             "searchable":1,
@@ -209,7 +199,7 @@
         },
         {
             "key":"csp_Cokemv",
-            "name":"🚗可乐┃APP",
+            "name":"🚗可乐",
             "type":3,
             "api":"csp_Cokemv",
             "searchable":1,
@@ -218,7 +208,7 @@
         },
         {
             "key":"csp_Bttwoo",
-            "name":"✌比特┃APP",
+            "name":"✌比特",
             "type":3,
             "api":"csp_Bttwoo",
             "searchable":1,
@@ -227,7 +217,7 @@
         },
         {
             "key":"csp_Lib",
-            "name":"🔷LibVio┃APP",
+            "name":"🔷LibVio",
             "type":3,
             "api":"csp_Libvio",
             "searchable":1,
@@ -237,7 +227,7 @@
         },
         {
             "key":"csp_Kuaikan",
-            "name":"👀快看┃APP",
+            "name":"👀快看",
             "type":3,
             "api":"csp_Kuaikan",
             "searchable":1,
@@ -246,7 +236,7 @@
         },
         {
             "key":"360",
-            "name":"💘360┃APP",
+            "name":"💘360",
             "type":3,
             "api":"csp_SP33",
             "searchable":1,
@@ -256,7 +246,7 @@
         },
         {
             "key":"csp_SixV",
-            "name":"🧲新6V┃APP",
+            "name":"🧲新6V",
             "type":3,
             "api":"csp_SixV",
             "searchable":1,
@@ -266,7 +256,7 @@
         },
         {
             "key":"csp_Anime1",
-            "name":"🌸动漫┃APP",
+            "name":"🌸动漫",
             "type":3,
             "api":"csp_Anime1",
             "searchable":1,
@@ -275,7 +265,7 @@
         },
         {
             "key":"csp_Dm84",
-            "name":"🚌动漫巴士┃APP",
+            "name":"🚌动漫巴士",
             "type":3,
             "api":"csp_Dm84",
             "searchable":1,
@@ -284,7 +274,7 @@
         },
         {
             "key":"Ying",
-            "name":"🌸樱花动漫┃APP",
+            "name":"🌸樱花动漫",
             "type":3,
             "api":"csp_Ying",
             "searchable":1,
@@ -293,7 +283,7 @@
         },
         {
             "key":"csp_Ysj",
-            "name":"📮异世界┃APP",
+            "name":"📮异世界",
             "type":3,
             "api":"csp_Ysj",
             "searchable":1,
@@ -302,7 +292,7 @@
         },
         {
             "key":"csp_Yj1211",
-            "name":"📽️在线直播┃APP",
+            "name":"📽️在线直播",
             "type":3,
             "api":"csp_Yj1211",
             "searchable":1,
@@ -311,7 +301,7 @@
         },
         {
             "key":"Aid",
-            "name":"🚑急救教学┃APP",
+            "name":"🚑急救教学",
             "type":3,
             "api":"csp_FirstAid",
             "searchable":0,
@@ -321,18 +311,18 @@
         },
         {
             "key":"csp_WoGG",
-            "name":"👽玩偶哥哥┃APP",
+            "name":"👽玩偶哥哥",
             "type":3,
             "api":"csp_WoGG",
             "searchable":1,
             "quickSearch":1,
             "filterable":1,
             "changeable":0,
-            "ext":"http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd$$$https://api.wogg.xyz/$$$弹"
+            "ext":"http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd$$$https://wogg.xyz/$$$弹"
         },
         {
             "key":"YiSo",
-            "name":"🆎易搜┃APP",
+            "name":"🆎易搜",
             "type":3,
             "api":"csp_YiSo",
             "searchable":1,
@@ -343,7 +333,7 @@
         },
         {
             "key":"Zhaozy",
-            "name":"🦊找资源┃APP",
+            "name":"🦊找资源",
             "type":3,
             "api":"csp_Zhaozy",
             "searchable":1,
@@ -354,7 +344,7 @@
         },
         {
             "key":"PanSou",
-            "name":"📀盘搜┃APP",
+            "name":"📀盘搜",
             "type":3,
             "api":"csp_PanSou",
             "searchable":1,
@@ -365,7 +355,7 @@
         },
         {
             "key":"UpYun",
-            "name":"☁️UP云搜┃APP",
+            "name":"☁️UP云搜",
             "type":3,
             "api":"csp_UpYun",
             "searchable":1,
@@ -376,7 +366,7 @@
         },
         {
             "key":"PanSearch",
-            "name":"🙀盘搜索┃APP",
+            "name":"🙀盘搜索",
             "type":3,
             "api":"csp_PanSearch",
             "searchable":1,
@@ -387,7 +377,7 @@
         },
         {
             "key":"Dovx",
-            "name":"😾七夜┃APP",
+            "name":"😾七夜",
             "type":3,
             "api":"csp_Dovx",
             "searchable":1,
@@ -398,7 +388,7 @@
         },
         {
             "key":"push_agent",
-            "name":"🍭推送┃APP",
+            "name":"🍭推送",
             "type":3,
             "api":"csp_Push",
             "searchable":0,
@@ -408,7 +398,7 @@
         },
         {
             "key":"dr_荐片",
-            "name":"🧲荐片┃APP",
+            "name":"🧲荐片",
             "type":3,
             "api":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/js/lib/drpy2.min.js",
             "playerType":"1",
@@ -419,7 +409,7 @@
         },
         {
             "key":"农民",
-            "name":"🥝农民┃APP",
+            "name":"🥝农民",
             "type":3,
             "api":"csp_XBPQ",
             "searchable":1,
@@ -429,7 +419,7 @@
         },
         {
             "key":"骚火",
-            "name":"💢骚火┃APP",
+            "name":"💢骚火",
             "type":3,
             "api":"csp_XBPQ",
             "playerType":"2",
@@ -451,7 +441,7 @@
         },
         {
             "key":"奇优",
-            "name":"️💢奇优┃APP",
+            "name":"️💢奇优",
             "type":3,
             "api":"csp_XBPQ",
             "searchable":1,
@@ -461,7 +451,7 @@
         },
         {
             "key":"云播",
-            "name":"💢云播┃APP",
+            "name":"💢云播",
             "type":3,
             "api":"csp_XBPQ",
             "searchable":1,
@@ -497,7 +487,7 @@
         },
         {
             "key":"Freeok",
-            "name":"💢Freeok┃APP",
+            "name":"💢Freeok",
             "type":3,
             "api":"csp_XBPQ",
             "playerType":"1",
@@ -520,7 +510,7 @@
         },
         {
             "key":"drpy_js_短剧网",
-            "name":"🗽短剧网┃APP",
+            "name":"🗽短剧网",
             "type":3,
             "api":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/js/lib/drpy2.min.js",
             "searchable":0,
@@ -530,7 +520,7 @@
         },
         {
             "key":"drpy_js_虎牙直播",
-            "name":"🐯虎牙直播┃APP",
+            "name":"🐯虎牙直播",
             "type":3,
             "api":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/js/lib/drpy2.min.js",
             "searchable":0,
@@ -540,7 +530,7 @@
         },
         {
             "key":"drpy_js_斗鱼直播",
-            "name":"🐠斗鱼直播┃APP",
+            "name":"🐠斗鱼直播",
             "type":3,
             "api":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/js/lib/drpy2.min.js",
             "searchable":0,
@@ -550,7 +540,7 @@
         },
         {
             "key":"drpy_js_有声小说吧",
-            "name":"有声小说吧┃APP",
+            "name":"有声小说吧",
             "type":3,
             "api":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/js/lib/drpy2.min.js",
             "playerType":"2",
@@ -561,7 +551,7 @@
         },
         {
             "key":"drpy_js_88看球",
-            "name":"88看球┃APP",
+            "name":"88看球",
             "type":3,
             "api":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/js/lib/drpy2.min.js",
             "searchable":0,
@@ -581,7 +571,7 @@
         },
         {
             "key":"短视频",
-            "name":"☘️短视频┃APP",
+            "name":"☘️短视频",
             "type":3,
             "api":"csp_XBPQ",
             "searchable":0,
@@ -602,17 +592,8 @@
             }
         },
         {
-            "key":"MV_vod",
-            "name":"🎸明星MV┃APP",
-            "type":1,
-            "api":"https://mv.wogg.link/mv/vod",
-            "searchable":0,
-            "quickSearch":0,
-            "filterable":1
-        },
-        {
             "key":"酷奇MV",
-            "name":"🎤酷奇MV┃APP",
+            "name":"🎸酷奇MV",
             "type":3,
             "api":"csp_XBPQ",
             "searchable":0,
@@ -633,7 +614,7 @@
         },
         {
             "key":"csp_Bili",
-            "name":"🅱️哔哩哔哩┃APP",
+            "name":"🅱️哔哩哔哩",
             "type":3,
             "api":"csp_Bili",
             "searchable":0,
@@ -642,7 +623,7 @@
             "ext":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/sub/Bili.json"
         },
         {
-            "key":"相声小品┃APP",
+            "key":"相声小品",
             "name":"🅱️相声小品",
             "type":3,
             "api":"csp_Bili",
@@ -653,7 +634,7 @@
         },
         {
             "key":"戏曲",
-            "name":"🅱️戏曲┃APP",
+            "name":"🅱️戏曲",
             "type":3,
             "api":"csp_Bili",
             "searchable":0,
@@ -663,7 +644,7 @@
         },
         {
             "key":"少儿",
-            "name":"🅱️少儿┃APP",
+            "name":"🅱️少儿",
             "type":3,
             "api":"csp_Bili",
             "searchable":0,
@@ -673,7 +654,7 @@
         },
         {
             "key":"小学",
-            "name":"🅱️小学┃APP",
+            "name":"🅱️小学",
             "type":3,
             "api":"csp_Bili",
             "searchable":0,
@@ -683,7 +664,7 @@
         },
         {
             "key":"初中",
-            "name":"🅱️初中┃APP",
+            "name":"🅱️初中",
             "type":3,
             "api":"csp_Bili",
             "searchable":0,
@@ -693,7 +674,7 @@
         },
         {
             "key":"高中",
-            "name":"🅱️高中┃APP",
+            "name":"🅱️高中",
             "type":3,
             "api":"csp_Bili",
             "searchable":0,
