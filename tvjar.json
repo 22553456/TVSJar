@@ -2,6 +2,103 @@
   "spider": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/Yoursmile.jar",
   "sites": [
     {
+      "key": "奇珍异兽",
+      "name": "🦊爱奇艺┃(官)",
+      "type": 3,
+      "api": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/js/lib/drpy2.min.js",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 0,
+      "ext": "https://agit.ai/zxwwp/TVBox/src/branch/master/js/奇珍异兽.js"
+    },
+    {
+      "key": "腾云驾雾",
+      "name": "🦊腾讯┃(官)",
+      "type": 3,
+      "api": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/js/lib/drpy2.min.js",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 0,
+      "ext": "https://agit.ai/zxwwp/TVBox/src/branch/master/js/腾云驾雾.js"
+    },
+    {
+      "key": "百忙无果",
+      "name": "🦊芒果┃(官)",
+      "type": 3,
+      "api": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/js/lib/drpy2.min.js",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 0,
+      "ext": "https://agit.ai/zxwwp/TVBox/src/branch/master/js/百忙无果.js"
+    },
+    {
+      "key": "优酷",
+      "name": "🦊优酷┃(官)",
+      "type": 3,
+      "api": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/js/lib/drpy2.min.js",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 0,
+      "ext": "https://agit.ai/zxwwp/TVBox/src/branch/master/js/优酷.js"
+    },
+    {
+      "key": "乐猪",
+      "name": "🦊乐猪┃(官)",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://agit.ai/zxwwp/TVBox/src/branch/master/json/乐猪.json"
+    },
+    {
+      "key": "臭蛋蛋",
+      "name": "🦊臭蛋蛋┃(官)",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://agit.ai/zxwwp/TVBox/src/branch/master/json/臭蛋蛋.json"
+    },
+	{
+	  "key": "开心果",
+	  "name": "🦊开心果┃(官)",
+	  "type": 3,
+	  "api": "csp_AppYsV2",
+	  "searchable": 1,
+	  "quickSearch": 1,
+	  "filterable": 1,
+	  "ext": "https://www.gsjtlxy.top/xgapp.php/v3/"
+	},
+	{
+	  "key":"金鹰资源",
+	  "name":"🦊金鹰资源┃(官)",
+	  "type":1,
+	  "api":"https://jyzyapi.com/provide/vod/from/jinyingm3u8/at/jso",
+	  "searchable":1,
+	  "quickSearch":1,
+	  "filterable":1
+	},
+	{
+	  "key": "天翼采集",
+	  "name": "🦊天翼资源┃(官)",
+	  "type": 1,
+	  "api": "https://www.911ysw.top/tianyi.php/provide/vod/",
+	  "searchable": 1,
+	  "quickSearch": 1,
+	  "filterable": 1
+	},
+	{
+      "key": "火狐",
+      "name": "🦊火狐资源┃(官)",
+      "type": 1,
+      "api": "https://hhzyapi.com/api.php/provide/vod",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+	},
+    {
       "key": "暴风资源",
       "name": "🔥暴风资源┃(官)",
       "type": 1,
@@ -1317,25 +1414,25 @@
     {
       "name": "live1",
       "type": 0,
-      "playerType":"2",
-      "url": "https://agit.ai/ihymn/tvbox/raw/branch/master/tv/zblive.txt",
+      "playerType":"1",
+      "url": "https://agit.ai/zdj8848/mtvbox/src/branch/master/live.txt",
+	  "ua":"okhttp/3.15",
       "epg":"https://epg.112114.xyz/?ch={name}&date={date}",
       "logo":"https://epg.112114.xyz/logo/{name}.png"
     },
     {
       "name": "live2",
       "type": 0,
-      "url": "https://ghproxy.com/https://raw.githubusercontent.com/YanG-1989/m3u/main/Gather.m3u"
+      "url": "http://home.jundie.top:81/Cat/tv/live.txt",
+      "playerType": 1,
+      "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
+      "logo": "https://epg.112114.xyz/logo/{name}.png"
     },
     {
-      "name": "live3",
+      "name": "live2",
       "type": 0,
-      "url": "https://ghproxy.com/https://raw.githubusercontent.com/Ftindy/IPTV-URL/main/cqyx.m3u"
-    },
-    {
-      "name":"live4",
-      "type":"0",
-      "url":"https://ghproxy.com/https://raw.githubusercontent.com/Ftindy/IPTV-URL/main/bestv.m3u"
+      "url": "http://mdxgh.dynv6.net/live/mdlive.txt",
+      "playerType": 1
     }
   ],
   "doh": [
@@ -1532,6 +1629,24 @@
         "is_play_url="
       ]
     },
+	{
+	  "name": "极速广告",
+	  "hosts": [
+	    "jszy"
+	  ],
+	  "regex": [
+	    "#EXT-X-DISCONTINUITY\\r*\\n*[\\s\\S]*?#EXT-X-DISCONTINUITY"
+	  ]
+	},
+	{
+	  "name": "磁力广告",
+	  "hosts": [
+	    "magnet"
+	  ],
+	  "regex": [
+	    "更多", "请访问", "example", "社 區", "x u u", "直 播", "更 新", "社 区", "有趣", "有 趣", "英皇体育", "全中文AV在线", "澳门皇冠赌场", "哥哥快来", "美女荷官", "裸聊", "新片首发", "UUE29"
+	  ]
+	},
     {
       "name": "cl",
       "hosts": [
