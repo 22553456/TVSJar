@@ -6,9 +6,9 @@
       "name": "🦊爱奇艺┃(官)",
       "type": 3,
       "api": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/js/lib/drpy2.min.js",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 0,
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
       "ext": "https://agit.ai/zxwwp/TVBox/src/branch/master/js/奇珍异兽.js"
     },
     {
@@ -16,9 +16,9 @@
       "name": "🦊腾讯┃(官)",
       "type": 3,
       "api": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/js/lib/drpy2.min.js",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 0,
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
       "ext": "https://agit.ai/zxwwp/TVBox/src/branch/master/js/腾云驾雾.js"
     },
     {
@@ -26,9 +26,9 @@
       "name": "🦊芒果┃(官)",
       "type": 3,
       "api": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/js/lib/drpy2.min.js",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 0,
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
       "ext": "https://agit.ai/zxwwp/TVBox/src/branch/master/js/百忙无果.js"
     },
     {
@@ -36,9 +36,9 @@
       "name": "🦊优酷┃(官)",
       "type": 3,
       "api": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/js/lib/drpy2.min.js",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 0,
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
       "ext": "https://agit.ai/zxwwp/TVBox/src/branch/master/js/优酷.js"
     },
     {
