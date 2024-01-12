@@ -157,54 +157,34 @@
       ]
     },
     {
-      "key": "乐猪",
-      "name": "🦊乐猪┃(官)",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://agit.ai/zxwwp/TVBox/src/branch/master/json/乐猪.json"
+       "key": "开心果",
+       "name": "🦊开心果┃(官)",
+       "type": 3,
+       "api": "csp_AppYsV2",
+       "searchable": 1,
+       "quickSearch": 1,
+       "filterable": 1,
+       "ext": "https://www.gsjtlxy.top/xgapp.php/v3/"
+   },
+   {
+      "key":"金鹰资源",
+      "name":"🦊金鹰资源┃(官)",
+      "type":1,
+      "api":"https://jyzyapi.com/provide/vod/from/jinyingm3u8/at/jso",
+      "searchable":1,
+      "quickSearch":1,
+      "filterable":1
     },
     {
-      "key": "臭蛋蛋",
-      "name": "🦊臭蛋蛋┃(官)",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://agit.ai/zxwwp/TVBox/src/branch/master/json/臭蛋蛋.json"
+       "key": "天翼采集",
+       "name": "🦊天翼资源┃(官)",
+       "type": 1,
+       "api": "https://www.911ysw.top/tianyi.php/provide/vod/",
+       "searchable": 1,
+       "quickSearch": 1,
+       "filterable": 1
     },
-	{
-	  "key": "开心果",
-	  "name": "🦊开心果┃(官)",
-	  "type": 3,
-	  "api": "csp_AppYsV2",
-	  "searchable": 1,
-	  "quickSearch": 1,
-	  "filterable": 1,
-	  "ext": "https://www.gsjtlxy.top/xgapp.php/v3/"
-	},
-	{
-	  "key":"金鹰资源",
-	  "name":"🦊金鹰资源┃(官)",
-	  "type":1,
-	  "api":"https://jyzyapi.com/provide/vod/from/jinyingm3u8/at/jso",
-	  "searchable":1,
-	  "quickSearch":1,
-	  "filterable":1
-	},
-	{
-	  "key": "天翼采集",
-	  "name": "🦊天翼资源┃(官)",
-	  "type": 1,
-	  "api": "https://www.911ysw.top/tianyi.php/provide/vod/",
-	  "searchable": 1,
-	  "quickSearch": 1,
-	  "filterable": 1
-	},
-	{
+    {
       "key": "火狐",
       "name": "🦊火狐资源┃(官)",
       "type": 1,
@@ -212,7 +192,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
-	},
+    },
     {
       "key": "暴风资源",
       "name": "🔥暴风资源┃(官)",
