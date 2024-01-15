@@ -3,6 +3,29 @@
   "wallpaper": "https://gao.chuqiuyu.workers.dev",
   "sites": [
     {
+      "key": "直播",
+      "name": "福利直播",
+      "type": 3,
+      "api": "https://ghproxy.net/https://raw.githubusercontent.com/ZTHA000/tvbox/main/js/apiv53zbzdb.js",
+      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/ZTHA000/tvbox/main/dbiptv69.json"
+    },
+    {
+      "key": "皇冠资源",
+      "name": "皇冠资源",
+      "type": 1,
+      "api": "https://www.partnersky-horoskop.com/api.php/provide/vod/",
+      "searchable": 1,
+      "recordable": 1,
+      "style": {
+        "type": "rect",
+        "ratio": 1.33
+      },
+      "header": {
+        "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36"
+      }
+    },
+    {
       "key": "jkunzyapi.com",
       "name": "jkun资源",
       "type": 1,
