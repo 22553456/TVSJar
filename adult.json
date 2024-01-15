@@ -1,82 +1,63 @@
 {
   "spider": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/22553456/CatVodSpider/main/jar/custom_spider.jar;md5;421d3d9e2b982f91c5d6a51c756f1213",
   "wallpaper": "https://gao.chuqiuyu.workers.dev",
+  "lives": [
+    {
+      "name": "直播资源1",
+      "type": 0,
+      "url": "https://ghproxy.net/https://raw.githubusercontent.com/ZTHA000/tvbox/main/tv/18/thzx5.txt",
+      "playerType": 1
+    },
+    {
+      "name": "直播资源2",
+      "type": 0,
+      "url": "https://ghproxy.net/https://raw.githubusercontent.com/ZTHA000/tvbox/main/tv/18/bz69.txt",
+      "playerType": 1
+    },
+    {
+      "name": "直播资源3",
+      "type": 0,
+      "url": "https://ghproxy.net/https://raw.githubusercontent.com/ZTHA000/tvbox/main/tv/18/fhdb.txt",
+      "playerType": 1
+    },
+    {
+      "name": "直播资源4",
+      "type": 0,
+      "url": "https://ghproxy.net/https://raw.githubusercontent.com/ZTHA000/tvbox/main/tv/18/yzls.txt",
+      "playerType": 1
+    },
+    {
+      "name": "直播资源5",
+      "type": 0,
+      "url": "https://pan.shangui.cc/f/N0xAHj/om%E8%80%81%E5%B8%88.txt",
+      "playerType": 1
+    },
+    {
+      "name": "直播资源5",
+      "type": 0,
+      "url": "https://pan.shangui.cc/f/QeoVcm/%E6%8C%BA%E5%A5%BD%E4%B8%93%E4%BA%AB1.txt",
+      "playerType": 1
+    },
+    {
+      "name": "直播资源6",
+      "type": 0,
+      "url": "https://pan.shangui.cc/f/N0eASj/%E6%8C%BA%E5%A5%BD%E4%B8%93%E4%BA%AB2.txt",
+      "playerType": 1
+    },
+    {
+      "name": "直播资源7",
+      "type": 0,
+      "url": "https://pan.shangui.cc/f/EozDHD/%E6%8C%BA%E5%A5%BD%E4%B8%93%E4%BA%AB3.txt",
+      "playerType": 1
+    },
+    {
+      "name": "直播资源8",
+      "type": 0,
+      "url": "https://pan.shangui.cc/f/2p1wtx/%E6%8C%BA%E5%A5%BD%E4%B8%93%E4%BA%AB4.txt",
+      "playerType": 1
+    }
+  ],
   "sites": [
-    {
-      "key": "直播",
-      "name": "福利直播",
-      "type": 3,
-      "api": "https://ghproxy.net/https://raw.githubusercontent.com/ZTHA000/tvbox/main/js/apiv53zbzdb.js",
-      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/ZTHA000/tvbox/main/dbiptv69.json"
-    },
-    {
-      "key": "玉兔专场",
-      "name": "玉兔资源",
-      "type": 1,
-      "api": "https://apiyutu.com/api.php/provide/vod/",
-      "playUrl": "",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "categories": [
-        "精品推荐",
-        "国产精品",
-        "主播秀色",
-        "日本有码",
-        "日本无码",
-        "中文字幕",
-        "童颜巨乳",
-        "性感人妻",
-        "强奸乱伦",
-        "欧美情色",
-        "童真萝莉",
-        "三级伦理",
-        "卡通动漫",
-        "丝袜OL",
-        "口爆颜射",
-        "自拍偷拍",
-        "日本片商",
-        "Cosplay",
-        "素人自拍",
-        "台湾色情",
-        "韩国自拍",
-        "性感港姐",
-        "东南亚情色",
-        "凌辱束缚",
-        "剧情介绍",
-        "多P 3P",
-        "91系列",
-        "网红系列",
-        "野外系列",
-        "女仆系列",
-        "学生中出",
-        "性感旗袍",
-        "兽耳作品",
-        "瑜伽裤",
-        "骚货护士",
-        "及膝袜",
-        "网曝系列",
-        "麻豆传媒",
-        "女同人妖",
-        "恋腿癖"
-      ]
-    },
-    {
-      "key": "皇冠资源",
-      "name": "皇冠资源",
-      "type": 1,
-      "api": "https://www.partnersky-horoskop.com/api.php/provide/vod/",
-      "searchable": 1,
-      "recordable": 1,
-      "style": {
-        "type": "rect",
-        "ratio": 1.33
-      },
-      "header": {
-        "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36"
-      }
-    },
     {
       "key": "jkunzyapi.com",
       "name": "jkun资源",
