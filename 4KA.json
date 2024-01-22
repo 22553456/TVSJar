@@ -20,6 +20,63 @@
       "filterable": 0
     },
     {
+      "key": "优酷",
+      "name": "🐼优酷┃官源",
+      "type": 3,
+      "api": "https://gh.con.sh/https://raw.githubusercontent.com/xmbjm/vip4K/main/lib/drpy2.min.js",
+      "ext": "https://gh.con.sh/https://raw.githubusercontent.com/xmbjm/vip4K/main/lib/youku.js"
+    },
+    {
+      "key": "芒果",
+      "name": "🐼芒果┃官源",
+      "type": 3,
+      "api": "https://gh.con.sh/https://raw.githubusercontent.com/xmbjm/vip4K/main/lib/drpy2.min.js",
+      "ext": "https://gh.con.sh/https://raw.githubusercontent.com/xmbjm/vip4K/main/lib/mangguo.js"
+    },
+    {
+      "key": "爱奇异",
+      "name": "🐼爱奇异┃官源",
+      "type": 3,
+      "api": "https://gh.con.sh/https://raw.githubusercontent.com/xmbjm/vip4K/main/lib/drpy2.min.js",
+      "ext": "https://gh.con.sh/https://raw.githubusercontent.com/xmbjm/vip4K/main/lib/aiqiyi.js"
+    },
+    {
+      "key": "腾讯",
+      "name": "🐼腾讯┃官源",
+      "type": 3,
+      "api": "https://gh.con.sh/https://raw.githubusercontent.com/xmbjm/vip4K/main/lib/drpy2.min.js",
+      "ext": "https://gh.con.sh/https://raw.githubusercontent.com/xmbjm/vip4K/main/lib/tengxun.js"
+    },
+    {
+      "key": "南瓜",
+      "name": "🐼2KHDR┃秒播-A",
+      "type": 3,
+      "api": "csp_NanGua",
+      "playerType": 2,
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1
+    },
+    {
+      "key": "csp_Nmys",
+      "name": "🐼2KHDR┃秒播-B",
+      "type": 3,
+      "api": "csp_Nmys",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "ext": "https://gh.con.sh/https://raw.githubusercontent.com/xmbjm/vip4K/main/lib/nmys.json"
+    },
+    {
+      "key": "csp_Bttoo",
+      "name": "🐼2KHDR┃秒播-C",
+      "type": 3,
+      "api": "csp_Bttwoo",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1
+    },
+    {
       "key": "Bili",
       "name": "🐼哔哩┃站点",
       "type": 3,
@@ -32,113 +89,6 @@
       "quickSearch": 0,
       "changeable": 0,
       "ext": "https://gh.con.sh/https://raw.githubusercontent.com/xmbjm/vip4K/main/lib/bilibili.json"
-    },
-    {
-      "key": "csp_woggcli",
-      "name": "🐼4KHDR┃A站",
-      "type": 4,
-      "api": "http://home.jundie.top:9520/spider/csp_Wogg?sort=原画,蓝光,超清,高清&token=8e14121f900f4bdfb861306f7a67b17c",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
-      "key": "玩偶哥哥",
-      "name": "🐼4KHDR┃B站",
-      "type": 3,
-      "api": "csp_WoGG",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 0,
-      "ext": "http://127.0.0.1:9978/file/tvbox/d3bf1ef8-625a-4ac1-a4a1-c588c620fcc9/token.txt"
-    },
-    {
-      "key": "PanSou",
-      "name": "🐼4KHDR┃C站",
-      "type": 3,
-      "api": "csp_PanSou",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 0,
-      "ext": "http://127.0.0.1:9978/file/tvbox/d3bf1ef8-625a-4ac1-a4a1-c588c620fcc9/token.txt"
-    },
-    {
-      "key": "七夜",
-      "name": "🐼4KHDR┃D站",
-      "type": 3,
-      "api": "csp_Dovx",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 0,
-      "ext": "http://127.0.0.1:9978/file/tvbox/d3bf1ef8-625a-4ac1-a4a1-c588c620fcc9/token.txt"
-    },
-    {
-      "key": "优酷",
-      "name": "🐼2KHDR┃官源",
-      "type": 3,
-      "api": "https://gh.con.sh/https://raw.githubusercontent.com/xmbjm/vip4K/main/lib/drpy2.min.js",
-      "ext": "https://gh.con.sh/https://raw.githubusercontent.com/xmbjm/vip4K/main/lib/youku.js"
-    },
-    {
-      "key": "芒果",
-      "name": "🐼2KHDR┃官源",
-      "type": 3,
-      "api": "https://gh.con.sh/https://raw.githubusercontent.com/xmbjm/vip4K/main/lib/drpy2.min.js",
-      "ext": "https://gh.con.sh/https://raw.githubusercontent.com/xmbjm/vip4K/main/lib/mangguo.js"
-    },
-    {
-      "key": "爱奇异",
-      "name": "🐼2KHDR┃官源",
-      "type": 3,
-      "api": "https://gh.con.sh/https://raw.githubusercontent.com/xmbjm/vip4K/main/lib/drpy2.min.js",
-      "ext": "https://gh.con.sh/https://raw.githubusercontent.com/xmbjm/vip4K/main/lib/aiqiyi.js"
-    },
-    {
-      "key": "腾讯",
-      "name": "🐼2KHDR┃官源",
-      "type": 3,
-      "api": "https://gh.con.sh/https://raw.githubusercontent.com/xmbjm/vip4K/main/lib/drpy2.min.js",
-      "ext": "https://gh.con.sh/https://raw.githubusercontent.com/xmbjm/vip4K/main/lib/tengxun.js"
-    },
-    {
-      "key": "Czsapp",
-      "name": "🐼2KHDR┃秒播-A",
-      "type": 3,
-      "api": "csp_Czsapp",
-      "playerType": 2,
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "ext": "https://www.czzy88.com/"
-    },
-    {
-      "key": "南瓜",
-      "name": "🐼2KHDR┃秒播-B",
-      "type": 3,
-      "api": "csp_NanGua",
-      "playerType": 2,
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1
-    },
-    {
-      "key": "csp_Nmys",
-      "name": "🐼2KHDR┃秒播-C",
-      "type": 3,
-      "api": "csp_Nmys",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "ext": "https://gh.con.sh/https://raw.githubusercontent.com/xmbjm/vip4K/main/lib/nmys.json"
-    },
-    {
-      "key": "csp_Bttoo",
-      "name": "🐼2KHDR┃秒播-D",
-      "type": 3,
-      "api": "csp_Bttwoo",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1
     },
     {
       "key": "Biliych",
@@ -173,34 +123,6 @@
       "quickSearch": 1,
       "filterable": 0,
       "ext": "https://gh.con.sh/https://raw.githubusercontent.com/xmbjm/vip4K/main/lib/动漫巴士.json"
-    },
-    {
-      "key": "csp_qiumi",
-      "name": "🐼Jrs球┃直播",
-      "type": 3,
-      "api": "https://gh.con.sh/https://raw.githubusercontent.com/xmbjm/vip4K/main/lib/drpy2.min.js",
-      "ext": "https://gh.con.sh/https://raw.githubusercontent.com/xmbjm/vip4K/main/lib/JRKAN直播.js",
-      "style": {
-        "type": "rect",
-        "ratio": 1
-      },
-      "searchable": 0,
-      "quickSearch": 0,
-      "changeable": 0
-    },
-    {
-      "key": "88js",
-      "name": "🐼看球┃球迷",
-      "type": 3,
-      "api": "https://gh.con.sh/https://raw.githubusercontent.com/xmbjm/vip4K/main/lib/drpy2.min.js",
-      "ext": "https://gh.con.sh/https://raw.githubusercontent.com/xmbjm/vip4K/main/lib/88看球.js",
-      "style": {
-        "type": "rect",
-        "ratio": 1
-      },
-      "searchable": 0,
-      "quickSearch": 0,
-      "changeable": 0
     },
     {
       "key": "drpy_js_短剧网",
