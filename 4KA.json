@@ -21,35 +21,35 @@
     },
     {
       "key": "优酷",
-      "name": "🐼优酷┃官源",
+      "name": "🎃优酷┃官源",
       "type": 3,
       "api": "https://gh.con.sh/https://raw.githubusercontent.com/xmbjm/vip4K/main/lib/drpy2.min.js",
       "ext": "https://gh.con.sh/https://raw.githubusercontent.com/xmbjm/vip4K/main/lib/youku.js"
     },
     {
       "key": "芒果",
-      "name": "🐼芒果┃官源",
+      "name": "🎃芒果┃官源",
       "type": 3,
       "api": "https://gh.con.sh/https://raw.githubusercontent.com/xmbjm/vip4K/main/lib/drpy2.min.js",
       "ext": "https://gh.con.sh/https://raw.githubusercontent.com/xmbjm/vip4K/main/lib/mangguo.js"
     },
     {
       "key": "爱奇异",
-      "name": "🐼爱奇异┃官源",
+      "name": "🎃爱奇异┃官源",
       "type": 3,
       "api": "https://gh.con.sh/https://raw.githubusercontent.com/xmbjm/vip4K/main/lib/drpy2.min.js",
       "ext": "https://gh.con.sh/https://raw.githubusercontent.com/xmbjm/vip4K/main/lib/aiqiyi.js"
     },
     {
       "key": "腾讯",
-      "name": "🐼腾讯┃官源",
+      "name": "🎃腾讯┃官源",
       "type": 3,
       "api": "https://gh.con.sh/https://raw.githubusercontent.com/xmbjm/vip4K/main/lib/drpy2.min.js",
       "ext": "https://gh.con.sh/https://raw.githubusercontent.com/xmbjm/vip4K/main/lib/tengxun.js"
     },
     {
       "key": "南瓜",
-      "name": "🐼2KHDR┃秒播-A",
+      "name": "🎃2KHDR┃秒播-A",
       "type": 3,
       "api": "csp_NanGua",
       "playerType": 2,
@@ -59,7 +59,7 @@
     },
     {
       "key": "csp_Nmys",
-      "name": "🐼2KHDR┃秒播-B",
+      "name": "🎃2KHDR┃秒播-B",
       "type": 3,
       "api": "csp_Nmys",
       "searchable": 1,
@@ -69,7 +69,7 @@
     },
     {
       "key": "csp_Bttoo",
-      "name": "🐼2KHDR┃秒播-C",
+      "name": "🎃2KHDR┃秒播-C",
       "type": 3,
       "api": "csp_Bttwoo",
       "searchable": 1,
@@ -78,7 +78,7 @@
     },
     {
       "key": "Bili",
-      "name": "🐼哔哩┃站点",
+      "name": "🎃哔哩┃站点",
       "type": 3,
       "api": "csp_Bili",
       "style": {
@@ -92,7 +92,7 @@
     },
     {
       "key": "Biliych",
-      "name": "🐼热门┃歌曲",
+      "name": "🎃热门┃歌曲",
       "type": 3,
       "api": "csp_Bili",
       "style": {
@@ -106,7 +106,7 @@
     },
     {
       "key": "js58",
-      "name": "🐼五八┃动漫",
+      "name": "🎃五八┃动漫",
       "type": 3,
       "api": "https://gh.con.sh/https://raw.githubusercontent.com/xmbjm/vip4K/main/lib/drpy2.min.js",
       "searchable": 0,
@@ -116,7 +116,7 @@
     },
     {
       "key": "csp_动漫巴士",
-      "name": "🐼巴士┃动漫",
+      "name": "🎃巴士┃动漫",
       "type": 3,
       "api": "csp_XPath",
       "searchable": 1,
@@ -126,14 +126,14 @@
     },
     {
       "key": "drpy_js_短剧网",
-      "name": "🐼短剧┃大全",
+      "name": "🎃短剧┃大全",
       "type": 3,
       "api": "https://gh.con.sh/https://raw.githubusercontent.com/xmbjm/vip4K/main/lib/drpy2.min.js",
       "ext": "https://gh.con.sh/https://raw.githubusercontent.com/xmbjm/vip4K/main/lib/短剧网.js"
     },
     {
       "key": "戏曲杂苑",
-      "name": "🐼戏曲｜大全",
+      "name": "🎃戏曲｜大全",
       "type": 3,
       "api": "csp_Bili",
       "searchable": 0,
@@ -143,7 +143,7 @@
     },
     {
       "key": "相声小品",
-      "name": "🐼相声｜小品",
+      "name": "🎃相声｜小品",
       "type": 3,
       "api": "csp_Bili",
       "searchable": 0,
@@ -153,7 +153,7 @@
     },
     {
       "key": "dr_兔小贝",
-      "name": "🐼教育┃儿童启蒙",
+      "name": "🎃教育┃儿童启蒙",
       "type": 3,
       "api": "https://gh.con.sh/https://raw.githubusercontent.com/xmbjm/vip4K/main/lib/drpy2.min.js",
       "ext": "https://gh.con.sh/https://raw.githubusercontent.com/xmbjm/vip4K/main/lib/兔小贝.js",
@@ -167,7 +167,7 @@
     },
     {
       "key": "少儿教育",
-      "name": "🐼教育┃少儿教育",
+      "name": "🎃教育┃少儿教育",
       "type": 3,
       "api": "csp_Bili",
       "style": {
@@ -181,7 +181,7 @@
     },
     {
       "key": "小学课堂",
-      "name": "🐼教育┃小学课堂",
+      "name": "🎃教育┃小学课堂",
       "type": 3,
       "api": "csp_Bili",
       "style": {
@@ -195,7 +195,7 @@
     },
     {
       "key": "初中课堂",
-      "name": "🐼教育┃初中课堂",
+      "name": "🎃教育┃初中课堂",
       "type": 3,
       "api": "csp_Bili",
       "style": {
@@ -209,7 +209,7 @@
     },
     {
       "key": "高中教育",
-      "name": "🐼教育┃高中课堂",
+      "name": "🎃教育┃高中课堂",
       "type": 3,
       "api": "csp_Bili",
       "style": {
@@ -223,38 +223,13 @@
     }
   ],
 "parses": [
-  {"name":"拾光m3u8嗅探","type":0,"url":"https://jx.m3u8.tv/jiexi/?url=","ext": {"flag": ["qq","腾讯","qiyi","iqiyi","爱奇艺","奇艺","youku","yk","优酷","mgtv","imgo","芒果"]}},
-  {"name":"拾光探","type":0,"url":"https://jx.xmflv.com/?url="},
-  {"name":"拾光7777","type":0,"url":"https://jx.777jiexi.com/player/?url="},
-  {
-    "name": "🍭环宇|小种",
-    "type": 0,
-    "url": "https://jx.jsonplayer.com/player/?url=",
-    "flag": [
-      "qq",
-      "腾讯",
-      "qiyi",
-      "爱奇艺",
-      "奇艺",
-      "youku",
-      "优",
-      "mgtv",
-      "芒果",
-      "letv",
-      "leshi",
-      "LS",
-      "乐视",
-      "pptv",
-      "PPTV",
-      "sohu",
-      "bilibili",
-      "哔哩哔哩",
-      "哔哩"
-    ]
-  }, 
-  {"name":"拾光闲鱼嗅探","type":0,"url":"https://jx.xyflv.com/?url=","ext": {"flag": ["qq","腾讯","qiyi","iqiyi","爱奇艺","奇艺","youku","yk","优酷","mgtv","imgo","芒果"]}},
-  {"name": "天微战狼","type": 0,"url": "https://jx.zhanlangbu.com/?url="},	   
-  {"name":"拾光夜幕嗅探","type":0,"url":"https://www.yemu.xyz/?url="}
+  {"name":"嗅探A","type":0,"url":"https://jx.m3u8.tv/jiexi/?url=","ext": {"flag": ["qq","腾讯","qiyi","iqiyi","爱奇艺","奇艺","youku","yk","优酷","mgtv","imgo","芒果"]}},
+  {"name":"嗅探B","type":0,"url":"https://jx.xmflv.com/?url="},
+  {"name":"嗅探C","type":0,"url":"https://jx.777jiexi.com/player/?url="},
+  {"name":"嗅探D","type": 0,"url": "https://jx.jsonplayer.com/player/?url=","flag": ["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优","mgtv","芒果","letv","leshi","LS","乐视","pptv","PPTV","sohu","bilibili","哔哩哔哩","哔哩"]}, 
+  {"name":"嗅探E","type":0,"url":"https://jx.xyflv.com/?url=","ext": {"flag": ["qq","腾讯","qiyi","iqiyi","爱奇艺","奇艺","youku","yk","优酷","mgtv","imgo","芒果"]}},
+  {"name":"嗅探F","type": 0,"url": "https://jx.zhanlangbu.com/?url="},	   
+  {"name":"嗅探G","type":0,"url":"https://www.yemu.xyz/?url="}
 ],
 "flags":["youku","qq","iqiyi","qiyi","letv","sohu","tudou","pptv","mgtv","wasu"],
 "doh":[
