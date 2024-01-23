@@ -11,6 +11,15 @@
       "recordable": 0,
       "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/22553456/TVSJar/main/JS/量子资源.js"
     },
+	{
+      "key": "哔哩哔哩",
+      "name": "视频┃哔哩哔哩",
+      "type": 3,
+      "api": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/22553456/TVSJar/main/API/drpy2.min.js",
+      "searchable": 1,
+      "recordable": 0,
+      "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/22553456/TVSJar/main/JS/我的哔哩.js"
+    },
     {
       "key": "JRKAN直播",
       "name": "体育┃JRKAN直播",
@@ -39,22 +48,31 @@
       "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/22553456/TVSJar/main/JS/310直播.js"
     },
 	{
-      "key": "哔哩哔哩",
-      "name": "视频┃哔哩哔哩",
+      "key": "武享",
+      "name": "拳击┃武享",
       "type": 3,
       "api": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/22553456/TVSJar/main/API/drpy2.min.js",
       "searchable": 1,
       "recordable": 0,
-      "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/22553456/TVSJar/main/JS/我的哔哩.js"
+      "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/22553456/TVSJar/main/JS/武享吧.js"
     },
 	{
       "key": "短剧网",
-      "name": "视频┃短剧网",
+      "name": "短剧┃短剧网",
       "type": 3,
       "api": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/22553456/TVSJar/main/API/drpy2.min.js",
       "searchable": 1,
       "recordable": 0,
       "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/22553456/TVSJar/main/JS/短剧网.js"
+    },
+	{
+      "key": "短视频",
+      "name": "聚合┃短视频",
+      "type": 3,
+      "api": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/22553456/TVSJar/main/API/drpy2.min.js",
+      "searchable": 1,
+      "recordable": 0,
+      "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/22553456/TVSJar/main/JS/短视频.js"
     },
 	{
       "key": "阿布",
@@ -73,15 +91,6 @@
       "searchable": 1,
       "recordable": 0,
       "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/22553456/TVSJar/main/JS/rrdyw.js"
-    },
-	{
-      "key": "武享",
-      "name": "拳击┃武享",
-      "type": 3,
-      "api": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/22553456/TVSJar/main/API/drpy2.min.js",
-      "searchable": 1,
-      "recordable": 0,
-      "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/22553456/TVSJar/main/JS/武享吧.js"
     },
 	{
       "key": "4K世界",
@@ -505,15 +514,6 @@
       "searchable": 1,
       "recordable": 0,
       "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/22553456/TVSJar/main/JS/播客.js"
-    },
-	{
-      "key": "短视频",
-      "name": "聚合┃短视频",
-      "type": 3,
-      "api": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/22553456/TVSJar/main/API/drpy2.min.js",
-      "searchable": 1,
-      "recordable": 0,
-      "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/22553456/TVSJar/main/JS/短视频.js"
     },
 	{
       "key": "酷6网",
