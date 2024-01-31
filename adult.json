@@ -3,6 +3,15 @@
   "wallpaper": "https://gao.chuqiuyu.workers.dev",
   "sites": [
     {
+      "key": "XGSP直播",
+      "name": "XGSP直播",
+      "type": 3,
+      "api": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/22553456/TVSJar/main/API/drpy2.min.js",
+      "searchable": 1,
+      "recordable": 0,
+      "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/22553456/TVSJar/main/JS/XGSP直播.js"
+    },
+    {
       "key": "ss直播",
       "name": "ss直播",
       "type": 3,
