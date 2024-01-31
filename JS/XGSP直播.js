@@ -1,6 +1,6 @@
 var rule = {
     title:'xgsp',
-    host:'https://xgsp.tv',
+    host:'https://zh.xgsp.tv',
     // homeUrl:'',
     url:'/list/?fyclass-fypage.html',
     headers:{
