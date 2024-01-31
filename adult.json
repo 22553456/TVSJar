@@ -3,7 +3,7 @@
   "wallpaper": "https://gao.chuqiuyu.workers.dev",
   "sites": [
     {
-      "key": "",
+      "key": "Missav",
       "name": "Missav",
       "type": 3,
       "api": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/22553456/TVSJar/main/API/drpy2.min.js",
