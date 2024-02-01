@@ -1,10 +1,73 @@
 {
-  "spider": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/22553456/CatVodTVSpider/main/jar/custom_spider.jar",
+  "spider": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/22553456/CatVodSpider/main/jar/custom_spider.jar",
   "wallpaper": "https://gao.chuqiuyu.workers.dev",
   "sites": [
     {
+      "key": "333影视",
+      "name": "影视┃333影视",
+      "type": 3,
+      "api": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/22553456/TVSJar/main/API/drpy2.min.js",
+      "searchable": 1,
+      "recordable": 0,
+      "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/22553456/TVSJar/main/JS/333影视.js"
+    },
+    {
+      "key": "188影视",
+      "name": "影视┃188影视",
+      "type": 3,
+      "api": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/22553456/TVSJar/main/API/drpy2.min.js",
+      "searchable": 1,
+      "recordable": 0,
+      "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/22553456/TVSJar/main/JS/188影视.js"
+    },
+    {
+      "key": "139影视",
+      "name": "影视┃139影视",
+      "type": 3,
+      "api": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/22553456/TVSJar/main/API/drpy2.min.js",
+      "searchable": 1,
+      "recordable": 0,
+      "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/22553456/TVSJar/main/JS/139影视.js"
+    },
+    {
+      "key": "动漫岛",
+      "name": "动漫┃动漫岛",
+      "type": 3,
+      "api": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/22553456/TVSJar/main/API/drpy2.min.js",
+      "searchable": 1,
+      "recordable": 0,
+      "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/22553456/TVSJar/main/JS/动漫岛.js"
+    },
+    {
+      "key": "58动漫",
+      "name": "动漫┃58动漫",
+      "type": 3,
+      "api": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/22553456/TVSJar/main/API/drpy2.min.js",
+      "searchable": 1,
+      "recordable": 0,
+      "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/22553456/TVSJar/main/JS/58动漫.js"
+    },
+    {
+      "key": "NT动漫",
+      "name": "动漫┃NT动漫",
+      "type": 3,
+      "api": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/22553456/TVSJar/main/API/drpy2.min.js",
+      "searchable": 1,
+      "recordable": 0,
+      "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/22553456/TVSJar/main/JS/NT动漫.js"
+    },
+    {
+      "key": "新片场",
+      "name": "影视┃新片场",
+      "type": 3,
+      "api": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/22553456/TVSJar/main/API/drpy2.min.js",
+      "searchable": 1,
+      "recordable": 0,
+      "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/22553456/TVSJar/main/JS/新片场.js"
+    },
+    {
       "key": "量子资源",
-      "name": "影视┃量子资源",
+      "name": "影视┃量子影院",
       "type": 3,
       "api": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/22553456/TVSJar/main/API/drpy2.min.js",
       "searchable": 1,
@@ -13,12 +76,12 @@
     },
 	{
       "key": "哔哩哔哩",
-      "name": "视频┃哔哩哔哩",
+      "name": "影视┃哔哩哔哩",
       "type": 3,
       "api": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/22553456/TVSJar/main/API/drpy2.min.js",
       "searchable": 1,
       "recordable": 0,
-      "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/22553456/TVSJar/main/JS/我的哔哩.js"
+      "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/22553456/TVSJar/main/JS/哔哩影视.js"
     },
     {
       "key": "JRKAN直播",
@@ -49,7 +112,7 @@
     },
 	{
       "key": "武享",
-      "name": "拳击┃武享",
+      "name": "拳击┃武享拳击",
       "type": 3,
       "api": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/22553456/TVSJar/main/API/drpy2.min.js",
       "searchable": 1,
@@ -75,6 +138,15 @@
       "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/22553456/TVSJar/main/JS/短视频.js"
     },
 	{
+      "key": "哔哩哔哩",
+      "name": "短剧┃哔哩哔哩",
+      "type": 3,
+      "api": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/22553456/TVSJar/main/API/drpy2.min.js",
+      "searchable": 1,
+      "recordable": 0,
+      "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/22553456/TVSJar/main/JS/我的哔哩.js"
+    },
+	{
       "key": "阿布",
       "name": "影视┃阿布影院",
       "type": 3,
@@ -85,7 +157,7 @@
     },
 	{
       "key": "人人",
-      "name": "影视┃人人",
+      "name": "影视┃人人影院",
       "type": 3,
       "api": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/22553456/TVSJar/main/API/drpy2.min.js",
       "searchable": 1,
@@ -130,7 +202,7 @@
     },
 	{
       "key": "爱看",
-      "name": "聚搜┃爱看",
+      "name": "聚搜┃爱看影院",
       "type": 3,
       "api": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/22553456/TVSJar/main/API/drpy2.min.js",
       "searchable": 1,
@@ -139,7 +211,7 @@
     },
 	{
       "key": "豆瓣",
-      "name": "搜索┃豆瓣",
+      "name": "搜索┃豆瓣影院",
       "type": 3,
       "api": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/22553456/TVSJar/main/API/drpy2.min.js",
       "searchable": 1,
@@ -202,7 +274,7 @@
     },
 	{
       "key": "农民",
-      "name": "影视┃农民",
+      "name": "影视┃农民影院",
       "type": 3,
       "api": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/22553456/TVSJar/main/API/drpy2.min.js",
       "searchable": 1,
@@ -211,7 +283,7 @@
     },
 	{
       "key": "爱看",
-      "name": "影视┃爱看",
+      "name": "影视┃爱看影院",
       "type": 3,
       "api": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/22553456/TVSJar/main/API/drpy2.min.js",
       "searchable": 1,
@@ -220,7 +292,7 @@
     },
 	{
       "key": "玄天",
-      "name": "影视┃玄天",
+      "name": "影视┃玄天影院",
       "type": 3,
       "api": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/22553456/TVSJar/main/API/drpy2.min.js",
       "searchable": 1,
@@ -229,7 +301,7 @@
     },
 	{
       "key": "徕米",
-      "name": "影视┃徕米",
+      "name": "影视┃徕米影院",
       "type": 3,
       "api": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/22553456/TVSJar/main/API/drpy2.min.js",
       "searchable": 1,
@@ -238,7 +310,7 @@
     },
 	{
       "key": "咕噜",
-      "name": "影视┃咕噜",
+      "name": "影视┃咕噜影院",
       "type": 3,
       "api": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/22553456/TVSJar/main/API/drpy2.min.js",
       "searchable": 1,
@@ -247,7 +319,7 @@
     },
 	{
       "key": "鑫鑫",
-      "name": "影视┃鑫鑫",
+      "name": "影视┃鑫鑫影院",
       "type": 3,
       "api": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/22553456/TVSJar/main/API/drpy2.min.js",
       "searchable": 1,
@@ -426,15 +498,6 @@
       "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/22553456/TVSJar/main/JS/私人影院.js"
     },
 	{
-      "key": "哔哩影视",
-      "name": "影视┃哔哩影视",
-      "type": 3,
-      "api": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/22553456/TVSJar/main/API/drpy2.min.js",
-      "searchable": 1,
-      "recordable": 0,
-      "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/22553456/TVSJar/main/JS/哔哩影视.js"
-    },
-	{
       "key": "DJ音乐",
       "name": "音乐┃DJ音乐",
       "type": 3,
@@ -607,9 +670,9 @@
   ],
   "lives": [
     {
-      "name": "太阳",
+      "name": "TV",
       "type": 0,
-      "url": "https://www.qiqiguai.cn/tv/2/道长JS/lives/太阳.txt",
+      "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/22553456/TVSJar/main/JS/TV.txt",
       "epg": ""
     }
   ],
