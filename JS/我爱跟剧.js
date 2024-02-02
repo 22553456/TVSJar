@@ -3,7 +3,7 @@ muban.mxone5.二级.desc = '.video-info-items:eq(3)&&Text;;;.video-info-actor:eq
 var rule={
     title:'我爱跟剧',
     模板:'mxone5',
-    host:'http://fabu.timiys.vip',
+    host:'https://www.52gen.vip',
     hostJs:'print(HOST);let html=request(HOST,{headers:{"User-Agent":PC_UA}});let src=jsp.pdfh(html,"li:eq(0)&&a&&href");print(src);HOST=src',
     // url:'/vodshow/fyclass-----------.html',
 	url:'/vodshow/fyclassfyfilter.html',
