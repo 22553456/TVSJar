@@ -764,7 +764,7 @@
       "boot": false,
       "timeout": 10,
       "url": "https://gh.con.sh/https://raw.githubusercontent.com/iptv-org/iptv/master/streams/cn.m3u"
-    },
+    }
   ],
   "doh": [
 	{
