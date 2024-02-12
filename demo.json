@@ -13,7 +13,7 @@
       "searchable":0,
       "quickSearch":0,
       "changeable":0,
-      "ext":"https://agit.ai/fantaiying/fty/raw/branch/master/ext/企鹅直播.json"
+      "ext":"./JSON/企鹅直播.json"
     },
     {
       "key": "FirstAid",
