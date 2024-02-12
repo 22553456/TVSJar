@@ -16,6 +16,60 @@
       "changeable": 0
     },
     {
+      "key": "酷吧",
+      "name": "磁力┃酷吧",
+      "type": 3,
+      "api": "./API/drpy2.min.js",
+      "searchable": 1,
+      "recordable": 0,
+      "ext": "./JS/酷吧.js"
+    },
+    {
+      "key": "MP4电影",
+      "name": "磁力┃MP4电影",
+      "type": 3,
+      "api": "./API/drpy2.min.js",
+      "searchable": 1,
+      "recordable": 0,
+      "ext": "./JS/MP4电影.js"
+    },
+    {
+      "key": "电影港",
+      "name": "磁力┃电影港",
+      "type": 3,
+      "api": "./API/drpy2.min.js",
+      "searchable": 1,
+      "recordable": 0,
+      "ext": "./JS/电影港.js"
+    },
+    {
+      "key": "映迷影院",
+      "name": "影视┃映迷影院",
+      "type": 3,
+      "api": "./API/drpy2.min.js",
+      "searchable": 1,
+      "recordable": 0,
+      "ext": "./JS/映迷影院.js"
+    },
+    {
+      "key": "欧帝影院",
+      "name": "影视┃欧帝影院",
+      "type": 3,
+      "api": "./API/drpy2.min.js",
+      "searchable": 1,
+      "recordable": 0,
+      "ext": "./JS/欧帝影院.js"
+    },
+    {
+      "key": "楚门影院",
+      "name": "影视┃楚门影院",
+      "type": 3,
+      "api": "./API/drpy2.min.js",
+      "searchable": 1,
+      "recordable": 0,
+      "ext": "./JS/楚门影院.js"
+    },
+    {
       "key": "我爱跟剧",
       "name": "影视┃我爱跟剧",
       "type": 3,
