@@ -25,13 +25,13 @@
       "ext": "./JS/我爱跟剧.js"
     },
     {
-      "key": "孜然影视",
-      "name": "影视┃孜然影视",
+      "key": "凌云影视",
+      "name": "影视┃凌云影视",
       "type": 3,
       "api": "./API/drpy2.min.js",
       "searchable": 1,
       "recordable": 0,
-      "ext": "./JS/孜然影视.js"
+      "ext": "./JS/凌云影视.js"
     },
     {
       "key": "爱看机器人",
