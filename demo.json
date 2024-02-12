@@ -3,19 +3,6 @@
   "wallpaper": "https://gao.chuqiuyu.workers.dev",
   "sites": [
     {
-      "key":"看球",
-      "name":"体育┃看球",
-      "type":3,
-      "api":"csp_XPath",
-      "style": {
-	"type":"list"
-      },
-      "searchable":0,
-      "quickSearch":0,
-      "changeable":0,
-      "ext":"./JSON/看球.json"
-    },
-    {
       "key": "FirstAid",
       "name": "急救 ",
       "type": 3,
@@ -27,6 +14,24 @@
       "searchable": 0,
       "quickSearch": 0,
       "changeable": 0
+    },
+    {
+      "key": "我爱跟剧",
+      "name": "影视┃我爱跟剧",
+      "type": 3,
+      "api": "./API/drpy2.min.js",
+      "searchable": 1,
+      "recordable": 0,
+      "ext": "./JS/我爱跟剧.js"
+    },
+    {
+      "key": "孜然影视",
+      "name": "影视┃孜然影视",
+      "type": 3,
+      "api": "./API/drpy2.min.js",
+      "searchable": 1,
+      "recordable": 0,
+      "ext": "./JS/孜然影视.js"
     },
     {
       "key": "爱看机器人",
