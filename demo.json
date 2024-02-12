@@ -3,8 +3,8 @@
   "wallpaper": "https://gao.chuqiuyu.workers.dev",
   "sites": [
     {
-      "key":"企鹅体育xp",
-      "name":"🐧鹅鹅┃体育",
+      "key":"看球",
+      "name":"体育┃看球",
       "type":3,
       "api":"csp_XPath",
       "style": {
@@ -13,7 +13,7 @@
       "searchable":0,
       "quickSearch":0,
       "changeable":0,
-      "ext":"./JSON/企鹅直播.json"
+      "ext":"./JSON/看球.json"
     },
     {
       "key": "FirstAid",
