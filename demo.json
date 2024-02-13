@@ -79,6 +79,24 @@
       "ext": "./JS/磁力熊[磁].js"
     },
     {
+      "key": "大师兄影视",
+      "name": "影视┃大师兄影视",
+      "type": 3,
+      "api": "./API/drpy2.min.js",
+      "searchable": 1,
+      "recordable": 0,
+      "ext": "./JS/大师兄影视.js"
+    },
+    {
+      "key": "9U电影",
+      "name": "影视┃9U电影",
+      "type": 3,
+      "api": "./API/drpy2.min.js",
+      "searchable": 1,
+      "recordable": 0,
+      "ext": "./JS/9U电影.js"
+    },
+    {
       "key": "映迷影院",
       "name": "影视┃映迷影院",
       "type": 3,
