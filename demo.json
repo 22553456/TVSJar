@@ -9,7 +9,7 @@
       "api": "csp_FirstAid",
       "style": {
         "type": "rect",
-        "ratio": 3.8
+        "ratio": 1.33
       },
       "searchable": 0,
       "quickSearch": 0,
@@ -41,6 +41,42 @@
       "searchable": 1,
       "recordable": 0,
       "ext": "./JS/电影港.js"
+    },
+    {
+      "key": "磁力熊",
+      "name": "影视┃磁力熊",
+      "type": 3,
+      "api": "./API/drpy2.min.js",
+      "searchable": 1,
+      "recordable": 0,
+      "ext": "./JS/cilixiong.js"
+    },
+    {
+      "key": "4K世界",
+      "name": "磁力┃4K世界",
+      "type": 3,
+      "api": "./API/drpy2.min.js",
+      "searchable": 1,
+      "recordable": 0,
+      "ext": "./JS/4KHDR[磁].js"
+    },
+    {
+      "key": "6V新版",
+      "name": "磁力┃6V新版",
+      "type": 3,
+      "api": "./API/drpy2.min.js",
+      "searchable": 1,
+      "recordable": 0,
+      "ext": "./JS/6V新版[磁].js"
+    },
+    {
+      "key": "磁力熊",
+      "name": "磁力┃磁力熊",
+      "type": 3,
+      "api": "./API/drpy2.min.js",
+      "searchable": 1,
+      "recordable": 0,
+      "ext": "./JS/磁力熊[磁].js"
     },
     {
       "key": "映迷影院",
@@ -140,15 +176,6 @@
       "searchable": 1,
       "recordable": 0,
       "ext": "./JS/热播库.js"
-    },
-    {
-      "key": "磁力熊",
-      "name": "影视┃磁力熊",
-      "type": 3,
-      "api": "./API/drpy2.min.js",
-      "searchable": 1,
-      "recordable": 0,
-      "ext": "./JS/cilixiong.js"
     },
     {
       "key": "B站影视",
@@ -329,33 +356,6 @@
       "searchable": 1,
       "recordable": 0,
       "ext": "./JS/rrdyw.js"
-    },
-	{
-      "key": "4K世界",
-      "name": "磁力┃4K世界",
-      "type": 3,
-      "api": "./API/drpy2.min.js",
-      "searchable": 1,
-      "recordable": 0,
-      "ext": "./JS/4KHDR[磁].js"
-    },
-	{
-      "key": "6V新版",
-      "name": "磁力┃6V新版",
-      "type": 3,
-      "api": "./API/drpy2.min.js",
-      "searchable": 1,
-      "recordable": 0,
-      "ext": "./JS/6V新版[磁].js"
-    },
-	{
-      "key": "磁力熊",
-      "name": "磁力┃磁力熊",
-      "type": 3,
-      "api": "./API/drpy2.min.js",
-      "searchable": 1,
-      "recordable": 0,
-      "ext": "./JS/磁力熊[磁].js"
     },
 	{
       "key": "好趣网",
