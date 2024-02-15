@@ -457,15 +457,6 @@
       "ext": "./JS/爱看.js"
     },
 	{
-      "key": "玄天",
-      "name": "影视┃玄天影院",
-      "type": 3,
-      "api": "./API/drpy2.min.js",
-      "searchable": 1,
-      "recordable": 0,
-      "ext": "./JS/玄天.js"
-    },
-	{
       "key": "徕米",
       "name": "影视┃徕米影院",
       "type": 3,
@@ -491,15 +482,6 @@
       "searchable": 1,
       "recordable": 0,
       "ext": "./JS/鑫鑫[V2].js"
-    },
-	{
-      "key": "UM电影",
-      "name": "影视┃UM电影",
-      "type": 3,
-      "api": "./API/drpy2.min.js",
-      "searchable": 1,
-      "recordable": 0,
-      "ext": "./JS/UM电影[V2].js"
     },
 	{
       "key": "555电影",
