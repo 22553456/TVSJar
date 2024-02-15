@@ -770,6 +770,7 @@
 	"type":"list"
       },
       "api": "./API/drpy2.min.js",
+      "playerType":"1","
       "searchable": 1,
       "recordable": 0,
       "ext": "./JS/JRKAN直播.js"
@@ -782,6 +783,7 @@
 	"type":"list"
       },
       "api": "./API/drpy2.min.js",
+      "playerType":"1","
       "searchable": 1,
       "recordable": 0,
       "ext": "./JS/88看球.js"
@@ -794,6 +796,7 @@
 	"type":"list"
       },
       "api": "./API/drpy2.min.js",
+      "playerType":"1","
       "searchable": 1,
       "recordable": 0,
       "ext": "./JS/310直播.js"
@@ -806,6 +809,7 @@
 	"type":"list"
       },
       "api": "./API/drpy2.min.js",
+      "playerType":"1","
       "searchable": 1,
       "recordable": 0,
       "ext": "./JS/武享吧.js"
