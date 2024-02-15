@@ -142,15 +142,6 @@
       "ext": "./JS/凌云影视.js"
     },
     {
-      "key": "爱看机器人",
-      "name": "影视┃爱看机器人",
-      "type": 3,
-      "api": "./API/drpy2.min.js",
-      "searchable": 1,
-      "recordable": 0,
-      "ext": "./JS/爱看机器人.js"
-    },
-    {
       "key": "NY影院",
       "name": "影视┃NY影院",
       "type": 3,
