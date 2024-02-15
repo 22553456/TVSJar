@@ -5,7 +5,7 @@ muban.首图2.二级.tabs = '.stui-pannel__head h3';
 var rule = {
     title:'阿布影院',
     模板:'首图2',
-    host:'https://abu22.com',
+    host:'https://www.npinet.com',
     // url:'/vodshow/fyclass--------fypage---.html',
     url:'/vodshow/fyfilter.html',
     filterable:1,//是否启用分类筛选,
