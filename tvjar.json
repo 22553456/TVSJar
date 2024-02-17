@@ -79,6 +79,24 @@
       "ext": "./JS/磁力熊[磁].js"
     },
     {
+      "key": "大师兄影视",
+      "name": "影视┃大师兄影视",
+      "type": 3,
+      "api": "./API/drpy2.min.js",
+      "searchable": 1,
+      "recordable": 0,
+      "ext": "./JS/大师兄影视.js"
+    },
+    {
+      "key": "9U电影",
+      "name": "影视┃9U电影",
+      "type": 3,
+      "api": "./API/drpy2.min.js",
+      "searchable": 1,
+      "recordable": 0,
+      "ext": "./JS/9U电影.js"
+    },
+    {
       "key": "映迷影院",
       "name": "影视┃映迷影院",
       "type": 3,
@@ -122,15 +140,6 @@
       "searchable": 1,
       "recordable": 0,
       "ext": "./JS/凌云影视.js"
-    },
-    {
-      "key": "爱看机器人",
-      "name": "影视┃爱看机器人",
-      "type": 3,
-      "api": "./API/drpy2.min.js",
-      "searchable": 1,
-      "recordable": 0,
-      "ext": "./JS/爱看机器人.js"
     },
     {
       "key": "NY影院",
@@ -230,15 +239,6 @@
       "searchable": 1,
       "recordable": 0,
       "ext": "./JS/路漫漫.js"
-    },
-    {
-      "key": "异世界动漫",
-      "name": "动漫┃异世界动漫",
-      "type": 3,
-      "api": "./API/drpy2.min.js",
-      "searchable": 1,
-      "recordable": 0,
-      "ext": "./JS/异世界动漫.js"
     },
     {
       "key": "NyaFun",
@@ -457,15 +457,6 @@
       "ext": "./JS/爱看.js"
     },
 	{
-      "key": "玄天",
-      "name": "影视┃玄天影院",
-      "type": 3,
-      "api": "./API/drpy2.min.js",
-      "searchable": 1,
-      "recordable": 0,
-      "ext": "./JS/玄天.js"
-    },
-	{
       "key": "徕米",
       "name": "影视┃徕米影院",
       "type": 3,
@@ -491,15 +482,6 @@
       "searchable": 1,
       "recordable": 0,
       "ext": "./JS/鑫鑫[V2].js"
-    },
-	{
-      "key": "UM电影",
-      "name": "影视┃UM电影",
-      "type": 3,
-      "api": "./API/drpy2.min.js",
-      "searchable": 1,
-      "recordable": 0,
-      "ext": "./JS/UM电影[V2].js"
     },
 	{
       "key": "555电影",
@@ -752,6 +734,7 @@
 	"type":"list"
       },
       "api": "./API/drpy2.min.js",
+      "playerType":"1","
       "searchable": 1,
       "recordable": 0,
       "ext": "./JS/JRKAN直播.js"
@@ -764,6 +747,7 @@
 	"type":"list"
       },
       "api": "./API/drpy2.min.js",
+      "playerType":"1","
       "searchable": 1,
       "recordable": 0,
       "ext": "./JS/88看球.js"
@@ -776,6 +760,7 @@
 	"type":"list"
       },
       "api": "./API/drpy2.min.js",
+      "playerType":"1","
       "searchable": 1,
       "recordable": 0,
       "ext": "./JS/310直播.js"
@@ -788,6 +773,7 @@
 	"type":"list"
       },
       "api": "./API/drpy2.min.js",
+      "playerType":"1","
       "searchable": 1,
       "recordable": 0,
       "ext": "./JS/武享吧.js"
