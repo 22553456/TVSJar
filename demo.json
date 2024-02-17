@@ -903,9 +903,36 @@
       "logo": "https://epg.112114.xyz/logo/{name}.png"
     },
     {
-      "name":"油管",
+      "name":"TV4",
       "type":0,
-      "url":"https://github.moeyy.xyz/https://raw.githubusercontent.com/YuanHsing/YouTube_to_m3u/main/youtube.m3u"
+      "url":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/live.txt",
+      "playerType":1,
+      "epg":"http://epg.112114.xyz/?ch={name}&date={date}",
+      "logo": "https://epg.112114.xyz/logo/{name}.png"
+    },
+    {
+      "name": "TV5",
+      "type": 0,
+      "playerType":1,
+      "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/YanG-1989/m3u/main/Gather.m3u",
+      "epg": "https://epg.112114.xyz/?ch={name}&date={date}",
+      "logo": "https://epg.112114.xyz/logo/{name}.png"
+    },
+    {
+      "name":"斗鱼",
+      "type":0,
+      "url":"https://github.moeyy.xyz/https://raw.githubusercontent.com/YanG-1989/m3u/main/yu.m3u"
+    },
+    {
+      "name":"虎牙",
+      "type":0,
+      "url":"https://github.moeyy.xyz/https://raw.githubusercontent.com/YanG-1989/m3u/main/ya.m3u"
+    },
+    {
+      "name":"电台",
+      "type":0,
+      "url":"https://github.moeyy.xyz/https://raw.githubusercontent.com/fanmingming/live/main/radio/m3u/index.m3u",
+      "playerType":1
     },
     {
       "name": "ipv6",
