@@ -16,15 +16,6 @@
       "changeable": 0
     },
     {
-      "key": "996影院",
-      "name": "弹幕┃996影院",
-      "type": 3,
-      "api": "csp_Cs1369",
-      "searchable": 1,
-      "changeable": 1,
-      "ext":"https://www.cs1369.com$$$null$$$1"
-    },
-    {
       "key": "DYD影视",
       "name": "磁力┃DYD影视",
       "type": 3,
@@ -32,15 +23,6 @@
       "searchable": 1,
       "recordable": 0,
       "ext": "./JS/dydhhy.js"
-    },
-    {
-      "key": "团长影视",
-      "name": "磁力┃团长影视",
-      "type": 3,
-      "api": "./API/drpy2.min.js",
-      "searchable": 1,
-      "recordable": 0,
-      "ext": "./JS/tzfile.js"
     },
     {
       "key": "电影港",
@@ -133,15 +115,6 @@
       "ext": "./JS/9U电影.js"
     },
     {
-      "key": "映迷影院",
-      "name": "影视┃映迷影院",
-      "type": 3,
-      "api": "./API/drpy2.min.js",
-      "searchable": 1,
-      "recordable": 0,
-      "ext": "./JS/映迷影院.js"
-    },
-    {
       "key": "欧帝影院",
       "name": "影视┃欧帝影院",
       "type": 3,
@@ -185,15 +158,6 @@
       "searchable": 1,
       "recordable": 0,
       "ext": "./JS/NY影院.js"
-    },
-    {
-      "key": "落攻阁影视",
-      "name": "影视┃落攻阁影视",
-      "type": 3,
-      "api": "./API/drpy2.min.js",
-      "searchable": 1,
-      "recordable": 0,
-      "ext": "./JS/落攻阁影视.js"
     },
     {
       "key": "哔嘀影视",
@@ -401,15 +365,6 @@
       "searchable": 1,
       "recordable": 0,
       "ext": "./JS/我的哔哩.js"
-    },
-	{
-      "key": "阿布",
-      "name": "影视┃阿布影院",
-      "type": 3,
-      "api": "./API/drpy2.min.js",
-      "searchable": 1,
-      "recordable": 0,
-      "ext": "./JS/阿布影院.js"
     },
 	{
       "key": "人人",
