@@ -16,6 +16,42 @@
       "changeable": 0
     },
     {
+      "key": "996影院",
+      "name": "弹幕┃996影院",
+      "type": 3,
+      "api": "csp_Cs1369",
+      "searchable": 1,
+      "changeable": 1,
+      "ext":"https://www.cs1369.com$$$null$$$1"
+    },
+    {
+      "key": "DYD影视",
+      "name": "磁力┃DYD影视",
+      "type": 3,
+      "api": "./API/drpy2.min.js",
+      "searchable": 1,
+      "recordable": 0,
+      "ext": "./JS/dydhhy.js"
+    },
+    {
+      "key": "团长影视",
+      "name": "磁力┃团长影视",
+      "type": 3,
+      "api": "./API/drpy2.min.js",
+      "searchable": 1,
+      "recordable": 0,
+      "ext": "./JS/tzfile.js"
+    },
+    {
+      "key": "电影港",
+      "name": "磁力┃电影港",
+      "type": 3,
+      "api": "./API/drpy2.min.js",
+      "searchable": 1,
+      "recordable": 0,
+      "ext": "./JS/dygang.js"
+    },
+    {
       "key": "酷吧",
       "name": "磁力┃酷吧",
       "type": 3,
@@ -230,6 +266,33 @@
       "searchable": 1,
       "recordable": 0,
       "ext": "./JS/139影视.js"
+    },
+    {
+      "key": "爱弹幕",
+      "name": "动漫┃爱弹幕",
+      "type": 3,
+      "api": "./API/drpy2.min.js",
+      "searchable": 1,
+      "recordable": 0,
+      "ext": "./JS/爱弹幕.js"
+    },
+    {
+      "key": "AGE动漫",
+      "name": "动漫┃AGE动漫",
+      "type": 3,
+      "api": "./API/drpy2.min.js",
+      "searchable": 1,
+      "recordable": 0,
+      "ext": "./JS/AGE动漫.js"
+    },
+    {
+      "key": "怡萱动漫",
+      "name": "动漫┃怡萱动漫",
+      "type": 3,
+      "api": "./API/drpy2.min.js",
+      "searchable": 1,
+      "recordable": 0,
+      "ext": "./JS/怡萱动漫.js"
     },
     {
       "key": "路漫漫",
