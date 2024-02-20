@@ -3,6 +3,15 @@
   "wallpaper": "https://gao.chuqiuyu.workers.dev",
   "sites": [
     {
+      "key": "AList",
+      "name": "AList",
+      "type": 3,
+      "api": "csp_AList",
+      "searchable": 1,
+      "changeable": 0,
+      "ext": "https://agit.ai/fenwe/TVBox/raw/branch/master/alist.json"
+    },
+    {
       "key": "ss直播",
       "name": "ss直播",
       "type": 3,
