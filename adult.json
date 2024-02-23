@@ -73,18 +73,6 @@
       }
     },
     {
-      "key": "18A貓",
-      "name": "18A貓",
-      "type": 3,
-      "api": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodOpen/main/open/18a_open.js",
-      "searchable": 1,
-      "recordable": 0,
-      "style": {
-        "type": "rect",
-        "ratio": 1.485
-      }
-    },
-    {
       "key": "Jable",
       "name": "Jable",
       "type": 3,
