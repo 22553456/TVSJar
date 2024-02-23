@@ -16,6 +16,15 @@
       "changeable": 0
     },
     {
+      "key": "csp_Yingshiche",
+      "name": "影视┃阿里影视",
+      "type": 3,
+      "api": "csp_Yingshiche",
+      "searchable": 1,
+      "changeable": 0,
+      "ext": "5ed7e8b55cc84468abc8f56395666dc6"
+    },
+    {
       "key": "DYD影视",
       "name": "磁力┃DYD影视",
       "type": 3,
