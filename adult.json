@@ -911,10 +911,10 @@
       }
     },
     {
-      "key": "moduapi.cc",
-      "name": "动漫55",
+      "key": "51smt4.xyz",
+      "name": "成人51",
       "type": 0,
-      "api": "https://caiji.moduapi.cc/api.php/provide/vod/at/xml/",
+      "api": "http://51smt4.xyz/api.php/provide/vod/",
       "searchable": 1,
       "recordable": 0,
       "style": {
@@ -924,7 +924,21 @@
       "header": {
         "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7",
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36"
-      }
+    },
+    {
+      "key": "wmcj8.com",
+      "name": "成人52",
+      "type": 0,
+      "api": "http://wmcj8.com/inc/sapi.php",
+      "searchable": 1,
+      "recordable": 0,
+      "style": {
+        "type": "rect",
+        "ratio": 1.33
+      },
+      "header": {
+        "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36"
     },
     {
       "key": "push_agent",
