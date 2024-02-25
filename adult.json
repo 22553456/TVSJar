@@ -157,10 +157,10 @@
       }
     },
     {
-      "key": "jcspcj8.com",
+      "key": "partnersky-horoskop.com",
       "name": "成人04",
       "type": 0,
-      "api": "http://jcspcj8.com/api?ac=videolist",
+      "api": "https://www.partnersky-horoskop.com/api.php/provide/vod/",
       "searchable": 1,
       "recordable": 0,
       "style": {
