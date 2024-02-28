@@ -16,6 +16,60 @@
       "changeable": 0
     },
     {
+      "key": "360影视",
+      "name": "官源┃360影视",
+      "type": 3,
+      "api": "./API/drpy2.min.js",
+      "searchable": 1,
+      "recordable": 0,
+      "ext": "./JS/360影视.js"
+    },
+    {
+      "key": "爱奇艺",
+      "name": "官源┃爱奇艺",
+      "type": 3,
+      "api": "./API/drpy2.min.js",
+      "searchable": 1,
+      "recordable": 0,
+      "ext": "./JS/奇珍异兽.js"
+    },
+    {
+      "key": "优酷",
+      "name": "官源┃优酷",
+      "type": 3,
+      "api": "./API/drpy2.min.js",
+      "searchable": 1,
+      "recordable": 0,
+      "ext": "./JS/优酷.js"
+    },
+    {
+      "key": "腾讯",
+      "name": "官源┃腾讯",
+      "type": 3,
+      "api": "./API/drpy2.min.js",
+      "searchable": 1,
+      "recordable": 0,
+      "ext": "./JS/腾云驾雾.js"
+    },
+    {
+      "key": "芒果",
+      "name": "官源┃芒果",
+      "type": 3,
+      "api": "./API/drpy2.min.js",
+      "searchable": 1,
+      "recordable": 0,
+      "ext": "./JS/百忙无果.js"
+    },
+    {
+      "key": "搜狗",
+      "name": "官源┃搜狗",
+      "type": 3,
+      "api": "./API/drpy2.min.js",
+      "searchable": 1,
+      "recordable": 0,
+      "ext": "./JS/菜狗.js"
+    },
+    {
       "key": "csp_Yingshiche",
       "name": "影视┃阿里影视",
       "type": 3,
@@ -339,7 +393,7 @@
       "recordable": 0,
       "ext": "./JS/量子资源.js"
     },
-	{
+    {
       "key": "哔哩哔哩",
       "name": "影视┃哔哩哔哩",
       "type": 3,
@@ -348,7 +402,7 @@
       "recordable": 0,
       "ext": "./JS/哔哩影视.js"
     },
-	{
+    {
       "key": "短剧网",
       "name": "短剧┃短剧网",
       "type": 3,
@@ -357,7 +411,7 @@
       "recordable": 0,
       "ext": "./JS/短剧网.js"
     },
-	{
+    {
       "key": "短视频",
       "name": "聚合┃短视频",
       "type": 3,
@@ -366,7 +420,7 @@
       "recordable": 0,
       "ext": "./JS/短视频.js"
     },
-	{
+    {
       "key": "哔哩哔哩",
       "name": "短剧┃哔哩哔哩",
       "type": 3,
@@ -375,7 +429,7 @@
       "recordable": 0,
       "ext": "./JS/我的哔哩.js"
     },
-	{
+    {
       "key": "人人",
       "name": "影视┃人人影院",
       "type": 3,
@@ -393,7 +447,7 @@
       "recordable": 0,
       "ext": "./JS/好趣网.js"
     },
-	{
+    {
       "key": "爱看",
       "name": "聚搜┃爱看影院",
       "type": 3,
@@ -402,7 +456,7 @@
       "recordable": 0,
       "ext": "./JS/ikanbot3.js"
     },
-	{
+    {
       "key": "豆瓣",
       "name": "搜索┃豆瓣影院",
       "type": 3,
@@ -411,61 +465,7 @@
       "recordable": 0,
       "ext": "./JS/drpy.js"
     },
-	{
-      "key": "360影视",
-      "name": "官源┃360影视",
-      "type": 3,
-      "api": "./API/drpy2.min.js",
-      "searchable": 1,
-      "recordable": 0,
-      "ext": "./JS/360影视.js"
-    },
-	{
-      "key": "爱奇艺",
-      "name": "官源┃爱奇艺",
-      "type": 3,
-      "api": "./API/drpy2.min.js",
-      "searchable": 1,
-      "recordable": 0,
-      "ext": "./JS/奇珍异兽.js"
-    },
-	{
-      "key": "优酷",
-      "name": "官源┃优酷",
-      "type": 3,
-      "api": "./API/drpy2.min.js",
-      "searchable": 1,
-      "recordable": 0,
-      "ext": "./JS/优酷.js"
-    },
-	{
-      "key": "腾讯",
-      "name": "官源┃腾讯",
-      "type": 3,
-      "api": "./API/drpy2.min.js",
-      "searchable": 1,
-      "recordable": 0,
-      "ext": "./JS/腾云驾雾.js"
-    },
-	{
-      "key": "芒果",
-      "name": "官源┃芒果",
-      "type": 3,
-      "api": "./API/drpy2.min.js",
-      "searchable": 1,
-      "recordable": 0,
-      "ext": "./JS/百忙无果.js"
-    },
-	{
-      "key": "搜狗",
-      "name": "官源┃搜狗",
-      "type": 3,
-      "api": "./API/drpy2.min.js",
-      "searchable": 1,
-      "recordable": 0,
-      "ext": "./JS/菜狗.js"
-    },
-	{
+    {
       "key": "农民",
       "name": "影视┃农民影院",
       "type": 3,
@@ -474,7 +474,7 @@
       "recordable": 0,
       "ext": "./JS/农民影视.js"
     },
-	{
+    {
       "key": "爱看",
       "name": "影视┃爱看影院",
       "type": 3,
@@ -483,7 +483,7 @@
       "recordable": 0,
       "ext": "./JS/爱看.js"
     },
-	{
+    {
       "key": "徕米",
       "name": "影视┃徕米影院",
       "type": 3,
@@ -492,7 +492,7 @@
       "recordable": 0,
       "ext": "./JS/徕米TV.js"
     },
-	{
+    {
       "key": "咕噜",
       "name": "影视┃咕噜影院",
       "type": 3,
@@ -501,7 +501,7 @@
       "recordable": 0,
       "ext": "./JS/咕噜[V2].js"
     },
-	{
+    {
       "key": "鑫鑫",
       "name": "影视┃鑫鑫影院",
       "type": 3,
@@ -510,7 +510,7 @@
       "recordable": 0,
       "ext": "./JS/鑫鑫[V2].js"
     },
-	{
+    {
       "key": "555电影",
       "name": "影视┃555电影",
       "type": 3,
@@ -519,7 +519,7 @@
       "recordable": 0,
       "ext": "./JS/555电影[V2].js"
     },
-	{
+    {
       "key": "奈飞狗",
       "name": "影视┃奈飞狗",
       "type": 3,
@@ -528,7 +528,7 @@
       "recordable": 0,
       "ext": "./JS/奈飞狗[V2].js"
     },
-	{
+    {
       "key": "北极狐",
       "name": "影视┃北极狐",
       "type": 3,
@@ -537,7 +537,7 @@
       "recordable": 0,
       "ext": "./JS/北极狐[V2].js"
     },
-	{
+    {
       "key": "思古影视",
       "name": "影视┃思古影视",
       "type": 3,
@@ -555,7 +555,7 @@
       "recordable": 0,
       "ext": "./JS/大米星球[V2].js"
     },
-	{
+    {
       "key": "曲奇影视",
       "name": "影视┃曲奇影视",
       "type": 3,
@@ -564,7 +564,7 @@
       "recordable": 0,
       "ext": "./JS/曲奇影视[V2].js"
     },
-	{
+    {
       "key": "兰花影院",
       "name": "影视┃兰花影院",
       "type": 3,
@@ -573,7 +573,7 @@
       "recordable": 0,
       "ext": "./JS/兰花影院.js"
     },
-	{
+    {
       "key": "TV云播",
       "name": "影视┃TV云播",
       "type": 3,
@@ -582,7 +582,7 @@
       "recordable": 0,
       "ext": "./JS/TV云播.js"
     },
-	{
+    {
       "key": "蛋蛋剧",
       "name": "影视┃蛋蛋剧",
       "type": 3,
@@ -591,7 +591,7 @@
       "recordable": 0,
       "ext": "./JS/蛋蛋剧.js"
     },
-	{
+    {
       "key": "免费看",
       "name": "影视┃免费看",
       "type": 3,
@@ -600,7 +600,7 @@
       "recordable": 0,
       "ext": "./JS/免费看.js"
     },
-	{
+    {
       "key": "追剧迷",
       "name": "影视┃追剧迷",
       "type": 3,
@@ -609,7 +609,7 @@
       "recordable": 0,
       "ext": "./JS/追剧迷.js"
     },
-	{
+    {
       "key": "4K电影网",
       "name": "影视┃4K电影网",
       "type": 3,
@@ -618,7 +618,7 @@
       "recordable": 0,
       "ext": "./JS/4K电影网.js"
     },
-	{
+    {
       "key": "Auete",
       "name": "影视┃Auete",
       "type": 3,
@@ -627,7 +627,7 @@
       "recordable": 0,
       "ext": "./JS/Auete.js"
     },
-	{
+    {
       "key": "Voflix",
       "name": "影视┃Voflix",
       "type": 3,
@@ -636,7 +636,7 @@
       "recordable": 0,
       "ext": "./JS/Voflix.js"
     },
-	{
+    {
       "key": "两个BT",
       "name": "影视┃两个BT",
       "type": 3,
@@ -645,7 +645,7 @@
       "recordable": 0,
       "ext": "./JS/两个BT.js"
     },
-	{
+    {
       "key": "干饭影视",
       "name": "影视┃干饭影视",
       "type": 3,
@@ -663,7 +663,7 @@
       "recordable": 0,
       "ext": "./JS/南瓜影视.js"
     },
-	{
+    {
       "key": "私人影院",
       "name": "影视┃私人影院",
       "type": 3,
@@ -672,7 +672,7 @@
       "recordable": 0,
       "ext": "./JS/私人影院.js"
     },
-	{
+    {
       "key": "蜻蜓FM",
       "name": "广播┃蜻蜓FM",
       "type": 3,
@@ -681,7 +681,7 @@
       "recordable": 0,
       "ext": "./JS/蜻蜓FM.js"
     },
-	{
+    {
       "key": "相声随身听",
       "name": "相声┃相声随身听",
       "type": 3,
@@ -690,7 +690,7 @@
       "recordable": 0,
       "ext": "./JS/相声随身听.js"
     },
-	{
+    {
       "key": "爱上你听书网",
       "name": "听书┃爱上你听书网",
       "type": 3,
@@ -699,7 +699,7 @@
       "recordable": 0,
       "ext": "./JS/爱上你听书网.js"
     },
-	{
+    {
       "key": "i275听书",
       "name": "听书┃i275听书",
       "type": 3,
@@ -708,7 +708,7 @@
       "recordable": 0,
       "ext": "./JS/i275听书.js"
     },
-	{
+    {
       "key": "喜马拉雅",
       "name": "听书┃喜马拉雅",
       "type": 3,
@@ -717,7 +717,7 @@
       "recordable": 0,
       "ext": "./JS/喜马拉雅.js"
     },
-	{
+    {
       "key": "六月听书",
       "name": "听书┃六月听书",
       "type": 3,
@@ -726,7 +726,7 @@
       "recordable": 0,
       "ext": "./JS/六月听书.js"
     },
-	{
+    {
       "key": "博看听书",
       "name": "听书┃博看听书",
       "type": 3,
@@ -735,7 +735,7 @@
       "recordable": 0,
       "ext": "./JS/博看听书.js"
     },
-	{
+    {
       "key": "播客",
       "name": "聚合┃播客",
       "type": 3,
@@ -744,7 +744,7 @@
       "recordable": 0,
       "ext": "./JS/播客.js"
     },
-	{
+    {
       "key": "酷6网",
       "name": "聚合┃酷6网",
       "type": 3,
@@ -766,7 +766,7 @@
       "recordable": 0,
       "ext": "./JS/JRKAN直播.js"
     },
-	{
+    {
       "key": "88看球",
       "name": "体育┃88看球",
       "type": 3,
@@ -792,7 +792,7 @@
       "recordable": 0,
       "ext": "./JS/310直播.js"
     },
-	{
+    {
       "key": "武享",
       "name": "拳击┃武享拳击",
       "type": 3,
@@ -805,7 +805,7 @@
       "recordable": 0,
       "ext": "./JS/武享吧.js"
     },
-	{
+    {
       "key": "哔哩",
       "name": "直播┃哔哩",
       "type": 3,
@@ -814,7 +814,7 @@
       "recordable": 0,
       "ext": "./JS/哔哩直播.js"
     },
-	{
+    {
       "key": "斗鱼",
       "name": "直播┃斗鱼",
       "type": 3,
@@ -823,7 +823,7 @@
       "recordable": 0,
       "ext": "./JS/斗鱼直播.js"
     },
-	{
+    {
       "key": "虎牙",
       "name": "直播┃虎牙",
       "type": 3,
@@ -832,7 +832,7 @@
       "recordable": 0,
       "ext": "./JS/虎牙直播.js"
     },
-	{
+    {
       "key": "聚合",
       "name": "直播┃聚合",
       "type": 3,
@@ -841,7 +841,7 @@
       "recordable": 0,
       "ext": "./JS/JustLive.js"
     },
-	{
+    {
       "key": "啦啦DJ",
       "name": "音乐┃啦啦DJ",
       "type": 3,
@@ -850,7 +850,7 @@
       "recordable": 0,
       "ext": "./JS/啦啦DJ.js"
     },
-	{
+    {
       "key": "DJ音乐",
       "name": "音乐┃DJ音乐",
       "type": 3,
@@ -859,7 +859,7 @@
       "recordable": 0,
       "ext": "./JS/DJ音乐.js"
     },
-	{
+    {
       "key": "清风DJ",
       "name": "音乐┃清风DJ",
       "type": 3,
@@ -868,7 +868,7 @@
       "recordable": 0,
       "ext": "./JS/清风DJ.js"
     },
-	{
+    {
       "key": "酷狗",
       "name": "MV┃酷狗",
       "type": 3,
@@ -877,7 +877,7 @@
       "recordable": 0,
       "ext": "./JS/酷狗MV.js"
     },
-	{
+    {
       "key": "童趣",
       "name": "少儿┃童趣",
       "type": 3,
@@ -886,7 +886,7 @@
       "recordable": 0,
       "ext": "./JS/童趣.js"
     },
-	{
+    {
       "key": "有声绘本网",
       "name": "少儿┃有声绘本网",
       "type": 3,
@@ -945,48 +945,48 @@
     }
   ],
   "doh": [
-	{
-		"name": "Google",
-		"url": "https://dns.google/dns-query",
-		"ips": [
-			"8.8.4.4",
-			"8.8.8.8"
-		]
-	},
-	{
-		"name": "Cloudflare",
-		"url": "https://cloudflare-dns.com/dns-query",
-		"ips": [
-			"1.1.1.1",
-			"1.0.0.1",
-			"2606:4700:4700::1111",
-			"2606:4700:4700::1001"
-		]
-	},
-	{
-		"name": "AdGuard",
-		"url": "https://dns.adguard.com/dns-query",
-		"ips": [
-			"94.140.14.140",
-			"94.140.14.141"
-		]
-	},
-	{
-		"name": "DNSWatch",
-		"url": "https://resolver2.dns.watch/dns-query",
-		"ips": [
-			"84.200.69.80",
-			"84.200.70.40"
-		]
-	},
-	{
-		"name": "Quad9",
-		"url": "https://dns.quad9.net/dns-quer",
-		"ips": [
-			"9.9.9.9",
-			"149.112.112.112"
-		]
-	}
+     {
+       "name": "Google",
+       "url": "https://dns.google/dns-query",
+       "ips": [
+	  "8.8.4.4",
+	  "8.8.8.8"
+	]
+      },
+      {
+        "name": "Cloudflare",
+	"url": "https://cloudflare-dns.com/dns-query",
+	"ips": [
+	   "1.1.1.1",
+	   "1.0.0.1",
+	   "2606:4700:4700::1111",
+	   "2606:4700:4700::1001"
+	 ]
+      },
+      {
+	"name": "AdGuard",
+	"url": "https://dns.adguard.com/dns-query",
+	"ips": [
+	   "94.140.14.140",
+	   "94.140.14.141"
+	]
+      },
+      {
+        "name": "DNSWatch",
+	"url": "https://resolver2.dns.watch/dns-query",
+	"ips": [
+	   "84.200.69.80",
+	   "84.200.70.40"
+	]
+      },
+      {
+        "name": "Quad9",
+	"url": "https://dns.quad9.net/dns-quer",
+	"ips": [
+	   "9.9.9.9",
+	   "149.112.112.112"
+	]
+      }
   ],
   "rules": [
     {
