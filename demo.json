@@ -1244,7 +1244,7 @@
   "parses": [
     {
       "name": "云解析1",
-      "type": 0,
+      "type": 1,
       "url": "https://jx.xmflv.cc/?url="
     },
     {
@@ -1279,11 +1279,6 @@
     },
     {
       "name": "解析5",
-      "type": 1,
-      "url": "http://110.42.2.247:880/analysis/json/?uid=2449&my=acfgikquvzFGJRW459&url="
-    },
-    {
-      "name": "解析6",
       "type": 0,
       "url": "https://www.yemu.xyz/?url=",
       "ext": {
@@ -1310,35 +1305,7 @@
       }
     },
     {
-      "name": "解析7",
-      "type": 1,
-      "url": "https://api.cygc.xyz/analysis/?url=",
-      "ext": {
-        "flag": [
-          "qq",
-          "腾讯",
-          "qiyi",
-          "爱奇艺",
-          "奇艺",
-          "youku",
-          "优酷",
-          "sohu",
-          "搜狐",
-          "letv",
-          "乐视",
-          "imgo",
-          "mgtv",
-          "芒果",
-          "rx",
-          "ltnb",
-          "bilibili",
-          "1905",
-          "xigua"
-        ]
-      }
-    },
-    {
-      "name": "解析8",
+      "name": "解析6",
       "type": 0,
       "url": "https://jx.xmflv.com/?url=",
       "ext": {
@@ -1368,34 +1335,7 @@
       }
     },
     {
-      "name": "解析9",
-      "type": 1,
-      "url": "http://pandown.pro/app/kkdy.php?url=",
-      "ext": {
-        "flag": [
-          "qq",
-          "腾讯",
-          "qiyi",
-          "爱奇艺",
-          "奇艺",
-          "youku",
-          "优酷",
-          "sohu",
-          "搜狐",
-          "letv",
-          "乐视",
-          "mgtv",
-          "芒果",
-          "rx",
-          "ltnb",
-          "bilibili",
-          "1905",
-          "xigua"
-        ]
-      }
-    },
-    {
-      "name": "解析10",
+      "name": "解析7",
       "url": "https://www.8090.la/8090/?url=",
       "type": 0,
       "ext": {
