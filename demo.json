@@ -1242,34 +1242,10 @@
 	}
   ],
   "parses": [
-	{
+    {
       "name": "云解析1",
-      "type": 1,
-      "url": "https://daina.hk/api/?key=e1e84ecae847b6e4a1a27fd4611f45f5&url=",
-      "ext": {
-        "flag": [
-          "FYNB",
-          "mgtv",
-          "qiyi",
-          "imgo",
-          "爱奇艺",
-          "奇艺",
-          "qq",
-          "腾讯",
-          "youku",
-          "优酷",
-          "pptv",
-          "PPTV",
-          "letv",
-          "乐视",
-          "leshi",
-          "bilibili",
-          "哔哩哔哩",
-          "哔哩",
-          "mgtv",
-          "芒果"
-        ]
-      }
+      "type": 0,
+      "url": "https://jx.xmflv.cc/?url="
     },
     {
       "name": "云解析2",
@@ -1284,40 +1260,30 @@
     {
       "name": "解析1",
       "type": 0,
-      "url": "https://jx.xmflv.cc/?url="
-    },
-	{
-      "name": "解析2",
-      "type": 0,
       "url": "https://jx.jsonplayer.com/player/?url="
     },
     {
-      "name": "解析3",
-      "type": 0,
-      "url": "https://jx.m3u8.tv/jiexi/?url="
-    },
-    {
-      "name": "解析4",
+      "name": "解析2",
       "type": 0,
       "url": "https://www.pangujiexi.com/pangu/?url="
     },
     {
-      "name": "解析5",
+      "name": "解析3",
       "type": 0,
       "url": "https://www.pouyun.com/?url="
     },
     {
-      "name": "解析6",
+      "name": "解析4",
       "type": 0,
       "url": "https://jx.777jiexi.com/player/?url="
     },
     {
-      "name": "解析7",
+      "name": "解析5",
       "type": 1,
       "url": "http://110.42.2.247:880/analysis/json/?uid=2449&my=acfgikquvzFGJRW459&url="
     },
     {
-      "name": "解析8",
+      "name": "解析6",
       "type": 0,
       "url": "https://www.yemu.xyz/?url=",
       "ext": {
@@ -1344,7 +1310,7 @@
       }
     },
     {
-      "name": "解析9",
+      "name": "解析7",
       "type": 1,
       "url": "https://api.cygc.xyz/analysis/?url=",
       "ext": {
@@ -1372,7 +1338,7 @@
       }
     },
     {
-      "name": "解析10",
+      "name": "解析8",
       "type": 0,
       "url": "https://jx.xmflv.com/?url=",
       "ext": {
@@ -1402,7 +1368,7 @@
       }
     },
     {
-      "name": "解析11",
+      "name": "解析9",
       "type": 1,
       "url": "http://pandown.pro/app/kkdy.php?url=",
       "ext": {
@@ -1429,7 +1395,7 @@
       }
     },
     {
-      "name": "解析12",
+      "name": "解析10",
       "url": "https://www.8090.la/8090/?url=",
       "type": 0,
       "ext": {
