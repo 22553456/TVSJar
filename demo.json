@@ -70,6 +70,24 @@
       "ext": "./JS/菜狗.js"
     },
     {
+      "key": "HDmoli",
+      "name": "影视┃HDmoli",
+      "type": 3,
+      "api": "./API/drpy2.min.js",
+      "searchable": 1,
+      "recordable": 0,
+      "ext": "./JS/HDmoli.js"
+    },
+    {
+      "key": "不开心",
+      "name": "影视┃不开心",
+      "type": 3,
+      "api": "./API/drpy2.min.js",
+      "searchable": 1,
+      "recordable": 0,
+      "ext": "./JS/不开心.js"
+    },
+    {
       "key": "csp_Yingshiche",
       "name": "影视┃阿里影视",
       "type": 3,
@@ -125,7 +143,7 @@
     },
     {
       "key": "磁力熊",
-      "name": "影视┃磁力熊",
+      "name": "磁力┃磁力熊",
       "type": 3,
       "api": "./API/drpy2.min.js",
       "searchable": 1,
@@ -293,6 +311,33 @@
       "searchable": 1,
       "recordable": 0,
       "ext": "./JS/139影视.js"
+    },
+    {
+      "key": "妮可动漫",
+      "name": "动漫┃妮可动漫",
+      "type": 3,
+      "api": "./API/drpy2.min.js",
+      "searchable": 1,
+      "recordable": 0,
+      "ext": "./JS/妮可动漫.js"
+    },
+    {
+      "key": "曲奇动漫",
+      "name": "动漫┃曲奇动漫",
+      "type": 3,
+      "api": "./API/drpy2.min.js",
+      "searchable": 1,
+      "recordable": 0,
+      "ext": "./JS/曲奇动漫.js"
+    },
+    {
+      "key": "去看吧",
+      "name": "动漫┃去看吧",
+      "type": 3,
+      "api": "./API/drpy2.min.js",
+      "searchable": 1,
+      "recordable": 0,
+      "ext": "./JS/去看吧.js"
     },
     {
       "key": "爱弹幕",
