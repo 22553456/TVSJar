@@ -70,6 +70,24 @@
       "ext": "./JS/菜狗.js"
     },
     {
+      "key": "HDmoli",
+      "name": "影视┃HDmoli",
+      "type": 3,
+      "api": "./API/drpy2.min.js",
+      "searchable": 1,
+      "recordable": 0,
+      "ext": "./JS/HDmoli.js"
+    },
+    {
+      "key": "不开心",
+      "name": "影视┃不开心",
+      "type": 3,
+      "api": "./API/drpy2.min.js",
+      "searchable": 1,
+      "recordable": 0,
+      "ext": "./JS/不开心.js"
+    },
+    {
       "key": "csp_Yingshiche",
       "name": "影视┃阿里影视",
       "type": 3,
@@ -125,7 +143,7 @@
     },
     {
       "key": "磁力熊",
-      "name": "影视┃磁力熊",
+      "name": "磁力┃磁力熊",
       "type": 3,
       "api": "./API/drpy2.min.js",
       "searchable": 1,
@@ -293,6 +311,33 @@
       "searchable": 1,
       "recordable": 0,
       "ext": "./JS/139影视.js"
+    },
+    {
+      "key": "妮可动漫",
+      "name": "动漫┃妮可动漫",
+      "type": 3,
+      "api": "./API/drpy2.min.js",
+      "searchable": 1,
+      "recordable": 0,
+      "ext": "./JS/妮可动漫.js"
+    },
+    {
+      "key": "曲奇动漫",
+      "name": "动漫┃曲奇动漫",
+      "type": 3,
+      "api": "./API/drpy2.min.js",
+      "searchable": 1,
+      "recordable": 0,
+      "ext": "./JS/曲奇动漫.js"
+    },
+    {
+      "key": "去看吧",
+      "name": "动漫┃去看吧",
+      "type": 3,
+      "api": "./API/drpy2.min.js",
+      "searchable": 1,
+      "recordable": 0,
+      "ext": "./JS/去看吧.js"
     },
     {
       "key": "爱弹幕",
@@ -1245,10 +1290,41 @@
     {
       "name": "云解析1",
       "type": 1,
-      "url": "https://jx.xmflv.cc/?url="
+      "url": "http://121.62.61.51:6888/api/?key=qy9VEMeeqwl3nI4gvA&url=",
+      "ext": {
+        "flag": [
+          "NBY"
+        ],
+        "header": {
+          "User-Agent": "okhttp/4.1.0"
+        }
+      }
     },
     {
       "name": "云解析2",
+      "type": 1,
+      "url": "http://xiutan.shiyifacai.com/json/qingfeng.php?url=",
+      "ext": {
+        "flag": [
+          "seven"
+        ],
+        "header": {
+          "User-Agent": "Lavf/58.12.100"
+        }
+      }
+    },
+    {
+      "name": "云解析3",
+      "type": 0,
+      "url": "https://t1.qlplayer.cyou/player/?url=",
+      "ext": {
+        "header": {
+          "user-agent": "Mozilla/5.0 (Linux; Android 13; V2049A Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/116.0.0.0 Mobile Safari/537.36"
+        }
+      }
+    },
+    {
+      "name": "云解析4",
       "type": 0,
       "url": "https://jx.yparse.com/index.php?url=",
       "ext": {
@@ -1278,7 +1354,17 @@
       "url": "https://jx.777jiexi.com/player/?url="
     },
     {
-      "name": "解析5",
+      "name": "线路5",
+      "type": 0,
+      "url": "https://jx.m3u8.tv/jiexi/?url="
+    },
+    {
+      "name": "线路6",
+      "type": 0,
+      "url": "https://www.ckplayer.vip/jiexi/?url="
+    },
+    {
+      "name": "解析7",
       "type": 0,
       "url": "https://www.yemu.xyz/?url=",
       "ext": {
@@ -1305,7 +1391,7 @@
       }
     },
     {
-      "name": "解析6",
+      "name": "解析8",
       "type": 0,
       "url": "https://jx.xmflv.com/?url=",
       "ext": {
@@ -1330,13 +1416,44 @@
           "哔哩"
         ],
         "header": {
-          "User-Agent": "okhttp/4.1.0"
+          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36 Edg/110.0.1587.57"
         }
       }
     },
     {
-      "name": "解析7",
+      "name": "解析9",
       "url": "https://www.8090.la/8090/?url=",
+      "type": 0,
+      "ext": {
+        "flag": [
+          "qiyi",
+          "imgo",
+          "爱奇艺",
+          "奇艺",
+          "qq",
+          "腾讯",
+          "youku",
+          "优酷",
+          "pptv",
+          "PPTV",
+          "letv",
+          "乐视",
+          "leshi",
+          "bilibili",
+          "哔哩哔哩",
+          "哔哩",
+          "mgtv",
+          "芒果",
+          "sohu",
+          "xigua",
+          "fun",
+          "风行"
+        ]
+      }
+    },
+    {
+      "name": "解析10",
+      "url": "https://www.8090g.cn/?url=",
       "type": 0,
       "ext": {
         "flag": [
@@ -1428,6 +1545,168 @@
     "funshion",
     "ruyi1080",
     "ruyib1080"
+  ],
+  "ijk": [
+    {
+      "group": "软解码",
+      "options": [
+        {
+          "category": 4,
+          "name": "opensles",
+          "value": "0"
+        },
+        {
+          "category": 4,
+          "name": "overlay-format",
+          "value": "842225234"
+        },
+        {
+          "category": 4,
+          "name": "framedrop",
+          "value": "1"
+        },
+        {
+          "category": 4,
+          "name": "soundtouch",
+          "value": "1"
+        },
+        {
+          "category": 4,
+          "name": "start-on-prepared",
+          "value": "1"
+        },
+        {
+          "category": 1,
+          "name": "http-detect-range-support",
+          "value": "0"
+        },
+        {
+          "category": 1,
+          "name": "fflags",
+          "value": "fastseek"
+        },
+        {
+          "category": 2,
+          "name": "skip_loop_filter",
+          "value": "48"
+        },
+        {
+          "category": 4,
+          "name": "reconnect",
+          "value": "1"
+        },
+        {
+          "category": 4,
+          "name": "enable-accurate-seek",
+          "value": "0"
+        },
+        {
+          "category": 4,
+          "name": "mediacodec",
+          "value": "0"
+        },
+        {
+          "category": 4,
+          "name": "mediacodec-auto-rotate",
+          "value": "0"
+        },
+        {
+          "category": 4,
+          "name": "mediacodec-handle-resolution-change",
+          "value": "0"
+        },
+        {
+          "category": 4,
+          "name": "mediacodec-hevc",
+          "value": "0"
+        },
+        {
+          "category": 1,
+          "name": "dns_cache_timeout",
+          "value": "600000000"
+        }
+      ]
+    },
+    {
+      "group": "硬解码",
+      "options": [
+        {
+          "category": 4,
+          "name": "opensles",
+          "value": "0"
+        },
+        {
+          "category": 4,
+          "name": "overlay-format",
+          "value": "842225234"
+        },
+        {
+          "category": 4,
+          "name": "framedrop",
+          "value": "1"
+        },
+        {
+          "category": 4,
+          "name": "soundtouch",
+          "value": "1"
+        },
+        {
+          "category": 4,
+          "name": "start-on-prepared",
+          "value": "1"
+        },
+        {
+          "category": 1,
+          "name": "http-detect-range-support",
+          "value": "0"
+        },
+        {
+          "category": 1,
+          "name": "fflags",
+          "value": "fastseek"
+        },
+        {
+          "category": 2,
+          "name": "skip_loop_filter",
+          "value": "48"
+        },
+        {
+          "category": 4,
+          "name": "reconnect",
+          "value": "1"
+        },
+        {
+          "category": 4,
+          "name": "enable-accurate-seek",
+          "value": "0"
+        },
+        {
+          "category": 4,
+          "name": "mediacodec",
+          "value": "1"
+        },
+        {
+          "category": 4,
+          "name": "mediacodec-auto-rotate",
+          "value": "1"
+        },
+        {
+          "category": 4,
+          "name": "mediacodec-handle-resolution-change",
+          "value": "1"
+        },
+        {
+          "category": 4,
+          "name": "mediacodec-hevc",
+          "value": "1"
+        },
+        {
+          "category": 1,
+          "name": "dns_cache_timeout",
+          "value": "600000000"
+        }
+      ]
+    }
   ],
   "ads":[
     "static-mozai.4gtv.tv",
