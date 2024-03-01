@@ -37,6 +37,18 @@
       }
     },
     {
+      "key": "Njav",
+      "name": "Njav",
+      "type": 3,
+      "api": "csp_Njav",
+      "searchable": 1,
+      "recordable": 0,
+      "style": {
+        "type": "rect",
+        "ratio": 1.77
+      }
+    },
+    {
       "key": "JavDb",
       "name": "JavDb",
       "type": 3,
