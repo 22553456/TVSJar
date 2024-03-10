@@ -1290,33 +1290,6 @@
     {
       "name": "云解析1",
       "type": 1,
-      "url": "http://42.157.129.144:2323/CH/caihong_1993138546.php?url=",
-      "ext": {
-        "flag": [
-          "qq",
-          "腾讯",
-          "qiyi",
-          "iqiyi",
-          "爱奇艺",
-          "奇艺",
-          "youku",
-          "优酷",
-          "mgtv",
-          "芒果",
-          "letv",
-          "乐视",
-          "pptv",
-          "PPTV",
-          "sohu",
-          "bilibili",
-          "哔哩哔哩",
-          "哔哩"
-        ]
-      }
-    },
-    {
-      "name": "云解析2",
-      "type": 1,
       "url": "http://121.62.61.51:6888/api/?key=qy9VEMeeqwl3nI4gvA&url=",
       "ext": {
         "flag": [
@@ -1328,8 +1301,8 @@
       }
     },
     {
-      "name": "云解析3",
-      "type": 1,
+      "name": "云解析2",
+      "type": 0,
       "url": "http://xiutan.shiyifacai.com/json/qingfeng.php?url=",
       "ext": {
         "flag": [
@@ -1341,7 +1314,7 @@
       }
     },
     {
-      "name": "云解析4",
+      "name": "云解析3",
       "type": 0,
       "url": "https://t1.qlplayer.cyou/player/?url=",
       "ext": {
@@ -1351,7 +1324,7 @@
       }
     },
     {
-      "name": "云解析5",
+      "name": "云解析4",
       "type": 0,
       "url": "https://jx.yparse.com/index.php?url=",
       "ext": {
